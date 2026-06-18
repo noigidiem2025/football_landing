@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from "next";
-import { Be_Vietnam_Pro, Inter } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
@@ -11,21 +10,6 @@ import { getCtaConfig } from "@/lib/cms/cta";
 import { getLiveMatches } from "@/src/services/live-matches.service";
 import { SITE_URL } from "@/lib/seo";
 import { site } from "@/mocks";
-
-// Both fonts include the "vietnamese" subset so VN diacritics render in-font
-// (no fallback mixing / baseline shift).
-const display = Be_Vietnam_Pro({
-  subsets: ["latin", "vietnamese"],
-  weight: ["600", "700", "800"],
-  variable: "--font-display",
-  display: "swap",
-});
-
-const sans = Inter({
-  subsets: ["latin", "vietnamese"],
-  variable: "--font-sans",
-  display: "swap",
-});
 
 // Default (server-rendered) metadata is Vietnamese — the site default language.
 // English is the alternate locale; the visible UI switches client-side via i18n.
@@ -85,7 +69,7 @@ export default async function RootLayout({
   ]);
 
   return (
-    <html lang="vi" className={`${display.variable} ${sans.variable}`}>
+    <html lang="vi">
       <body className="min-h-dvh">
         <LanguageProvider>
           <Header hasLiveMatches={liveMatches.length > 0} />

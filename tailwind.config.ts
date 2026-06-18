@@ -24,8 +24,22 @@ const config: Config = {
         muted: "#8A93A2",
       },
       fontFamily: {
-        display: ["var(--font-display)", "system-ui", "sans-serif"],
-        sans: ["var(--font-sans)", "system-ui", "sans-serif"],
+        display: [
+          "Inter",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          '"Segoe UI"',
+          "system-ui",
+          "sans-serif",
+        ],
+        sans: [
+          "Inter",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          '"Segoe UI"',
+          "system-ui",
+          "sans-serif",
+        ],
       },
       maxWidth: {
         container: "1280px",
