@@ -1,0 +1,42 @@
+{
+  "source": "api-football",
+  "generatedAt": "2026-06-17T20:42:07.475Z",
+  "ttlSeconds": 86400,
+  "records": 1,
+  "data": {
+    "homeTeamId": 25129,
+    "awayTeamId": 25044,
+    "totalMatches": 1,
+    "homeWins": 1,
+    "awayWins": 0,
+    "draws": 0,
+    "recentMatches": [
+      {
+        "fixtureId": 1544788,
+        "date": "2026-06-18T01:30:00+07:00",
+        "leagueName": "Maranhense - 2",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/1148.png",
+        "homeTeamName": "Tupan",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/25129.png",
+        "awayTeamName": "Expressinho",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/25044.png",
+        "homeScore": null,
+        "awayScore": null,
+        "status": "NS"
+      },
+      {
+        "fixtureId": 1470029,
+        "date": "2025-09-18T01:30:00+07:00",
+        "leagueName": "Maranhense - 2",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/1148.png",
+        "homeTeamName": "Expressinho",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/25044.png",
+        "awayTeamName": "Tupan",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/25129.png",
+        "homeScore": 1,
+        "awayScore": 4,
+        "status": "FT"
+      }
+    ]
+  }
+}

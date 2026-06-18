@@ -1,0 +1,37 @@
+{
+  "fixtures": {
+    "name": "fixtures",
+    "status": "success",
+    "startedAt": "2026-06-17T20:11:45.503Z",
+    "finishedAt": "2026-06-17T20:11:46.025Z",
+    "records": 336
+  },
+  "live": {
+    "name": "live",
+    "status": "success",
+    "startedAt": "2026-06-17T20:11:46.026Z",
+    "finishedAt": "2026-06-17T20:11:46.417Z",
+    "records": 5
+  },
+  "leagues": {
+    "name": "leagues",
+    "status": "success",
+    "startedAt": "2026-06-17T20:11:44.372Z",
+    "finishedAt": "2026-06-17T20:11:45.502Z",
+    "records": 1229
+  },
+  "results": {
+    "name": "results",
+    "status": "success",
+    "startedAt": "2026-06-17T20:11:46.418Z",
+    "finishedAt": "2026-06-17T20:11:46.945Z",
+    "records": 192
+  },
+  "match-detail:1495495": {
+    "name": "match-detail:1495495",
+    "status": "success",
+    "startedAt": "2026-06-17T20:11:39.446Z",
+    "finishedAt": "2026-06-17T20:11:39.997Z",
+    "records": 1
+  }
+}

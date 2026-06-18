@@ -1,0 +1,198 @@
+{
+  "source": "api-football",
+  "generatedAt": "2026-06-17T20:11:46.415Z",
+  "ttlSeconds": 60,
+  "records": 5,
+  "data": [
+    {
+      "matchId": 1544588,
+      "leagueId": 1158,
+      "leagueName": "Copa Gaúcha",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1158.png",
+      "season": 2026,
+      "round": "Group Stage - 6",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Second Half",
+      "statusShort": "2H",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25078,
+      "homeTeamName": "Farroupilha",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25078.png",
+      "homeWinner": false,
+      "awayTeamId": 10044,
+      "awayTeamName": "Bagé",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/10044.png",
+      "awayWinner": true,
+      "homeScore": 1,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1544591,
+      "leagueId": 1158,
+      "leagueName": "Copa Gaúcha",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1158.png",
+      "season": 2026,
+      "round": "Group Stage - 6",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Second Half",
+      "statusShort": "2H",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 16479,
+      "homeTeamName": "Santa Cruz RS",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16479.png",
+      "homeWinner": null,
+      "awayTeamId": 25079,
+      "awayTeamName": "Gramadense",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25079.png",
+      "awayWinner": null,
+      "homeScore": 2,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 2
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1553804,
+      "leagueId": 1183,
+      "leagueName": "Brasileiro U20 B",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1183.png",
+      "season": 2026,
+      "round": "Quarter-finals",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Penalty in progress",
+      "statusShort": "P",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 12989,
+      "homeTeamName": "CRB U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12989.png",
+      "homeWinner": true,
+      "awayTeamId": 12971,
+      "awayTeamName": "Sport Recife U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12971.png",
+      "awayWinner": false,
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1493545,
+      "leagueId": 255,
+      "leagueName": "USL Championship",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/255.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T02:00:00+07:00",
+      "timestamp": 1781722800,
+      "date": "2026-06-18",
+      "kickoffTime": "02:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Halftime",
+      "statusShort": "HT",
+      "elapsed": 45,
+      "venueName": "Laney College Football Stadium",
+      "venueCity": null,
+      "homeTeamId": 10874,
+      "homeTeamName": "Oakland Roots",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10874.png",
+      "homeWinner": false,
+      "awayTeamId": 3989,
+      "awayTeamName": "Birmingham Legion",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3989.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1489384,
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1.png",
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "isoDate": "2026-06-18T03:00:00+07:00",
+      "timestamp": 1781726400,
+      "date": "2026-06-18",
+      "kickoffTime": "03:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "First Half",
+      "statusShort": "1H",
+      "elapsed": 12,
+      "venueName": "AT&T Stadium",
+      "venueCity": "Arlington",
+      "homeTeamId": 10,
+      "homeTeamName": "England",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10.png",
+      "homeWinner": true,
+      "awayTeamId": 3,
+      "awayTeamName": "Croatia",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3.png",
+      "awayWinner": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6392 @@
+{
+  "source": "api-football",
+  "generatedAt": "2026-06-17T20:11:46.023Z",
+  "ttlSeconds": 21600,
+  "records": 168,
+  "data": [
+    {
+      "matchId": 1495495,
+      "leagueId": 549,
+      "leagueName": "Damallsvenskan",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Stockholms Olympiastadion",
+      "venueCity": "Stockholm",
+      "homeTeamId": 11076,
+      "homeTeamName": "Djurgården W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/11076.png",
+      "homeWinner": false,
+      "awayTeamId": 21698,
+      "awayTeamName": "Malmö FF W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/21698.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1495498,
+      "leagueId": 549,
+      "leagueName": "Damallsvenskan",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Hammarby IP",
+      "venueCity": "Stockholm",
+      "homeTeamId": 15630,
+      "homeTeamName": "Hammarby W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/15630.png",
+      "homeWinner": true,
+      "awayTeamId": 15629,
+      "awayTeamName": "AIK W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/15629.png",
+      "awayWinner": false,
+      "homeScore": 4,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1507179,
+      "leagueId": 326,
+      "leagueName": "Erovnuli Liga 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/326.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Tsentraluri Stadioni",
+      "venueCity": "Dusheti",
+      "homeTeamId": 10015,
+      "homeTeamName": "Aragvi Dusheti",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10015.png",
+      "homeWinner": true,
+      "awayTeamId": 3503,
+      "awayTeamName": "Sioni",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3503.png",
+      "awayWinner": false,
+      "homeScore": 3,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "matchId": 1509147,
+      "leagueId": 327,
+      "leagueName": "Erovnuli Liga",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/327.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Stadion Ramaz Shengelia",
+      "venueCity": "Kutaisi",
+      "homeTeamId": 685,
+      "homeTeamName": "Torpedo Kutaisi",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/685.png",
+      "homeWinner": false,
+      "awayTeamId": 705,
+      "awayTeamName": "Dinamo Batumi",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/705.png",
+      "awayWinner": true,
+      "homeScore": 2,
+      "awayScore": 3,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
+      "matchId": 1510959,
+      "leagueId": 597,
+      "leagueName": "Division 2 - Södra Götaland",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/597.png",
+      "season": 2026,
+      "round": "Södra Götaland - 13",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 20839,
+      "homeTeamName": "IFK Trelleborg",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/20839.png",
+      "homeWinner": true,
+      "awayTeamId": 12612,
+      "awayTeamName": "Berga",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12612.png",
+      "awayWinner": false,
+      "homeScore": 2,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1510961,
+      "leagueId": 597,
+      "leagueName": "Division 2 - Södra Götaland",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/597.png",
+      "season": 2026,
+      "round": "Södra Götaland - 13",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Arena Oskarshamn",
+      "venueCity": "Oskarshamn",
+      "homeTeamId": 6692,
+      "homeTeamName": "Oskarshamns AIK",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/6692.png",
+      "homeWinner": true,
+      "awayTeamId": 25573,
+      "awayTeamName": "Växjö Norra",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25573.png",
+      "awayWinner": false,
+      "homeScore": 2,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1510964,
+      "leagueId": 597,
+      "leagueName": "Division 2 - Södra Götaland",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/597.png",
+      "season": 2026,
+      "round": "Södra Götaland - 13",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": "Lund",
+      "homeTeamId": 6701,
+      "homeTeamName": "Torns",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/6701.png",
+      "homeWinner": false,
+      "awayTeamId": 12619,
+      "awayTeamName": "Österlen",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12619.png",
+      "awayWinner": true,
+      "homeScore": 2,
+      "awayScore": 3,
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
+      "matchId": 1511055,
+      "leagueId": 597,
+      "leagueName": "Division 2 - Södra Götaland",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/597.png",
+      "season": 2026,
+      "round": "Södra Götaland - 13",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 12616,
+      "homeTeamName": "Nosaby",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12616.png",
+      "homeWinner": null,
+      "awayTeamId": 24079,
+      "awayTeamName": "Lilla Torg W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/24079.png",
+      "awayWinner": null,
+      "homeScore": 3,
+      "awayScore": 3,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 3
+        }
+      }
+    },
+    {
+      "matchId": 1511338,
+      "leagueId": 596,
+      "leagueName": "Division 2 - Västra Götaland",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/596.png",
+      "season": 2026,
+      "round": "Västra Götaland - 13",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18424,
+      "homeTeamName": "Landvetter IS",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18424.png",
+      "homeWinner": true,
+      "awayTeamId": 21359,
+      "awayTeamName": "Jonsered",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/21359.png",
+      "awayWinner": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1539003,
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1.png",
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "isoDate": "2026-06-18T00:00:00+07:00",
+      "timestamp": 1781715600,
+      "date": "2026-06-18",
+      "kickoffTime": "00:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "NRG Stadium",
+      "venueCity": "Houston",
+      "homeTeamId": 27,
+      "homeTeamName": "Portugal",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27.png",
+      "homeWinner": null,
+      "awayTeamId": 1508,
+      "awayTeamName": "Congo DR",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/1508.png",
+      "awayWinner": null,
+      "homeScore": 1,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1504474,
+      "leagueId": 564,
+      "leagueName": "Ettan - Södra",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/564.png",
+      "season": 2026,
+      "round": "Södra - 13",
+      "isoDate": "2026-06-18T00:30:00+07:00",
+      "timestamp": 1781717400,
+      "date": "2026-06-18",
+      "kickoffTime": "00:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Nordic Wellness Arena",
+      "venueCity": null,
+      "homeTeamId": 6706,
+      "homeTeamName": "Utsikten",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/6706.png",
+      "homeWinner": false,
+      "awayTeamId": 2162,
+      "awayTeamName": "Atvidabergs FF",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/2162.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 3,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        }
+      }
+    },
+    {
+      "matchId": 1510789,
+      "leagueId": 593,
+      "leagueName": "Division 2 - Norra Svealand",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/593.png",
+      "season": 2026,
+      "round": "Norra Svealand - 13",
+      "isoDate": "2026-06-18T00:30:00+07:00",
+      "timestamp": 1781717400,
+      "date": "2026-06-18",
+      "kickoffTime": "00:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 6662,
+      "homeTeamName": "Enskede",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/6662.png",
+      "homeWinner": true,
+      "awayTeamId": 25574,
+      "awayTeamName": "Bollstanäs",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25574.png",
+      "awayWinner": false,
+      "homeScore": 3,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1511337,
+      "leagueId": 596,
+      "leagueName": "Division 2 - Västra Götaland",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/596.png",
+      "season": 2026,
+      "round": "Västra Götaland - 13",
+      "isoDate": "2026-06-18T00:30:00+07:00",
+      "timestamp": 1781717400,
+      "date": "2026-06-18",
+      "kickoffTime": "00:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 22935,
+      "homeTeamName": "Kongahälla",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/22935.png",
+      "homeWinner": false,
+      "awayTeamId": 25576,
+      "awayTeamName": "Hestrafor",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25576.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 3,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        }
+      }
+    },
+    {
+      "matchId": 1545639,
+      "leagueId": 115,
+      "leagueName": "Svenska Cupen",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/115.png",
+      "season": 2026,
+      "round": "Semi-finals",
+      "isoDate": "2026-06-18T00:30:00+07:00",
+      "timestamp": 1781717400,
+      "date": "2026-06-18",
+      "kickoffTime": "00:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 16745,
+      "homeTeamName": "Rågsved",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16745.png",
+      "homeWinner": false,
+      "awayTeamId": 12578,
+      "awayTeamName": "Enköping",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12578.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "matchId": 1547850,
+      "leagueId": 667,
+      "leagueName": "Friendlies Clubs",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/667.png",
+      "season": 2026,
+      "round": "Club Friendlies",
+      "isoDate": "2026-06-18T00:30:00+07:00",
+      "timestamp": 1781717400,
+      "date": "2026-06-18",
+      "kickoffTime": "00:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 24549,
+      "homeTeamName": "Marke",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24549.png",
+      "homeWinner": false,
+      "awayTeamId": 734,
+      "awayTeamName": "Kortrijk",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/734.png",
+      "awayWinner": true,
+      "homeScore": 1,
+      "awayScore": 4,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 4
+        }
+      }
+    },
+    {
+      "matchId": 1553784,
+      "leagueId": 330,
+      "leagueName": "Premier League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/330.png",
+      "season": 2025,
+      "round": "Relegation Play-Off - 1",
+      "isoDate": "2026-06-18T00:45:00+07:00",
+      "timestamp": 1781718300,
+      "date": "2026-06-18",
+      "kickoffTime": "00:45",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 3534,
+      "homeTeamName": "Al Jahra",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/3534.png",
+      "homeWinner": false,
+      "awayTeamId": 3539,
+      "awayTeamName": "Al Tadhamon",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3539.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1553785,
+      "leagueId": 330,
+      "leagueName": "Premier League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/330.png",
+      "season": 2025,
+      "round": "Relegation Play-Off - 1",
+      "isoDate": "2026-06-18T00:45:00+07:00",
+      "timestamp": 1781718300,
+      "date": "2026-06-18",
+      "kickoffTime": "00:45",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 3541,
+      "homeTeamName": "Al Shabab",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/3541.png",
+      "homeWinner": false,
+      "awayTeamId": 3536,
+      "awayTeamName": "Al Nasar",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3536.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 3,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        }
+      }
+    },
+    {
+      "matchId": 1495707,
+      "leagueId": 244,
+      "leagueName": "Veikkausliiga",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/244.png",
+      "season": 2026,
+      "round": "Regular Season - 11",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Markku.fi Areena",
+      "venueCity": "Helsinki",
+      "homeTeamId": 2082,
+      "homeTeamName": "Gnistan",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/2082.png",
+      "homeWinner": true,
+      "awayTeamId": 1166,
+      "awayTeamName": "Lahti",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/1166.png",
+      "awayWinner": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1495708,
+      "leagueId": 244,
+      "leagueName": "Veikkausliiga",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/244.png",
+      "season": 2026,
+      "round": "Regular Season - 11",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "OmaSp Stadion",
+      "venueCity": "Seinajoki",
+      "homeTeamId": 689,
+      "homeTeamName": "SJK",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/689.png",
+      "homeWinner": false,
+      "awayTeamId": 650,
+      "awayTeamName": "VPS",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/650.png",
+      "awayWinner": true,
+      "homeScore": 1,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "matchId": 1498571,
+      "leagueId": 129,
+      "leagueName": "Primera Nacional",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/129.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Estadio 23 de Agosto",
+      "venueCity": "Jujuy",
+      "homeTeamId": 479,
+      "homeTeamName": "Gimnasia Jujuy",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/479.png",
+      "homeWinner": true,
+      "awayTeamId": 484,
+      "awayTeamName": "Nueva Chicago",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/484.png",
+      "awayWinner": false,
+      "homeScore": 4,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1512472,
+      "leagueId": 906,
+      "leagueName": "Reserve League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/906.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18678,
+      "homeTeamName": "Atlético Tucumán Res.",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18678.png",
+      "homeWinner": true,
+      "awayTeamId": 18686,
+      "awayTeamName": "Gimnasia La Plata Res.",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18686.png",
+      "awayWinner": false,
+      "homeScore": 2,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1512473,
+      "leagueId": 906,
+      "leagueName": "Reserve League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/906.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18679,
+      "homeTeamName": "Banfield Res.",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18679.png",
+      "homeWinner": false,
+      "awayTeamId": 18695,
+      "awayTeamName": "River Plate Res.",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18695.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1512479,
+      "leagueId": 906,
+      "leagueName": "Reserve League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/906.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": "Victor Legrotaglie",
+      "venueCity": "Mendoza",
+      "homeTeamId": 27272,
+      "homeTeamName": "Gimnasia Mendoza 2",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27272.png",
+      "homeWinner": true,
+      "awayTeamId": 18677,
+      "awayTeamName": "Argentinos Juniors Res.",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18677.png",
+      "awayWinner": false,
+      "homeScore": 2,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1512483,
+      "leagueId": 906,
+      "leagueName": "Reserve League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/906.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 20818,
+      "homeTeamName": "Instituto Res.",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/20818.png",
+      "homeWinner": false,
+      "awayTeamId": 18701,
+      "awayTeamName": "Unión Santa Fe Res.",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18701.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "matchId": 1512486,
+      "leagueId": 906,
+      "leagueName": "Reserve League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/906.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18696,
+      "homeTeamName": "Rosario Central Res.",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18696.png",
+      "homeWinner": false,
+      "awayTeamId": 18702,
+      "awayTeamName": "Vélez Sársfield Res.",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18702.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 4,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        }
+      }
+    },
+    {
+      "matchId": 1512487,
+      "leagueId": 906,
+      "leagueName": "Reserve League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/906.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18699,
+      "homeTeamName": "Talleres Córdoba Res.",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18699.png",
+      "homeWinner": false,
+      "awayTeamId": 18694,
+      "awayTeamName": "Racing Club Res.",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18694.png",
+      "awayWinner": true,
+      "homeScore": 2,
+      "awayScore": 3,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
+      "matchId": 1526175,
+      "leagueId": 740,
+      "leagueName": "Brasileiro U20 A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/740.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 12954,
+      "homeTeamName": "Bahia U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12954.png",
+      "homeWinner": null,
+      "awayTeamId": 12979,
+      "awayTeamName": "Vasco da Gama U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12979.png",
+      "awayWinner": null,
+      "homeScore": 1,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1526176,
+      "leagueId": 740,
+      "leagueName": "Brasileiro U20 A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/740.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 22875,
+      "homeTeamName": "Botafogo U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/22875.png",
+      "homeWinner": true,
+      "awayTeamId": 13011,
+      "awayTeamName": "Grêmio U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/13011.png",
+      "awayWinner": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1526177,
+      "leagueId": 740,
+      "leagueName": "Brasileiro U20 A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/740.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 12998,
+      "homeTeamName": "Corinthians U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12998.png",
+      "homeWinner": true,
+      "awayTeamId": 13072,
+      "awayTeamName": "Vitória U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/13072.png",
+      "awayWinner": false,
+      "homeScore": 2,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1526179,
+      "leagueId": 740,
+      "leagueName": "Brasileiro U20 A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/740.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 11054,
+      "homeTeamName": "Flamengo U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/11054.png",
+      "homeWinner": null,
+      "awayTeamId": 13001,
+      "awayTeamName": "Cuiabá U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/13001.png",
+      "awayWinner": null,
+      "homeScore": 1,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1526180,
+      "leagueId": 740,
+      "leagueName": "Brasileiro U20 A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/740.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 13009,
+      "homeTeamName": "Fortaleza U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/13009.png",
+      "homeWinner": null,
+      "awayTeamId": 12953,
+      "awayTeamName": "Avaí U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12953.png",
+      "awayWinner": null,
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1526181,
+      "leagueId": 740,
+      "leagueName": "Brasileiro U20 A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/740.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 13020,
+      "homeTeamName": "Juventude U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/13020.png",
+      "homeWinner": true,
+      "awayTeamId": 12973,
+      "awayTeamName": "São Paulo U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12973.png",
+      "awayWinner": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1541984,
+      "leagueId": 936,
+      "leagueName": "Catarinense - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/936.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 1204,
+      "homeTeamName": "Tubarao",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/1204.png",
+      "homeWinner": false,
+      "awayTeamId": 19635,
+      "awayTeamName": "Blumenau",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/19635.png",
+      "awayWinner": true,
+      "homeScore": 2,
+      "awayScore": 3,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
+      "matchId": 1543901,
+      "leagueId": 1128,
+      "leagueName": "Brasileiro U17",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1128.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 24468,
+      "homeTeamName": "America MG U17",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24468.png",
+      "homeWinner": null,
+      "awayTeamId": 24483,
+      "awayTeamName": "Internacional U17",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/24483.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1543902,
+      "leagueId": 1128,
+      "leagueName": "Brasileiro U17",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1128.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 24469,
+      "homeTeamName": "Athletico PR U17",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24469.png",
+      "homeWinner": true,
+      "awayTeamId": 24470,
+      "awayTeamName": "Atletico GO U17",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/24470.png",
+      "awayWinner": false,
+      "homeScore": 3,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1543905,
+      "leagueId": 1128,
+      "leagueName": "Brasileiro U17",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1128.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 24485,
+      "homeTeamName": "RB Bragantino U17",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24485.png",
+      "homeWinner": true,
+      "awayTeamId": 25807,
+      "awayTeamName": "Vasco U17",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25807.png",
+      "awayWinner": false,
+      "homeScore": 3,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "matchId": 1543909,
+      "leagueId": 1128,
+      "leagueName": "Brasileiro U17",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1128.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 24482,
+      "homeTeamName": "Gremio U17",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24482.png",
+      "homeWinner": null,
+      "awayTeamId": 27733,
+      "awayTeamName": "Vitoria U17",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27733.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1543910,
+      "leagueId": 1128,
+      "leagueName": "Brasileiro U17",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1128.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 24487,
+      "homeTeamName": "Sao Paulo U17",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24487.png",
+      "homeWinner": null,
+      "awayTeamId": 24479,
+      "awayTeamName": "Fluminense U17",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/24479.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1544588,
+      "leagueId": 1158,
+      "leagueName": "Copa Gaúcha",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1158.png",
+      "season": 2026,
+      "round": "Group Stage - 6",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Second Half",
+      "statusShort": "2H",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25078,
+      "homeTeamName": "Farroupilha",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25078.png",
+      "homeWinner": false,
+      "awayTeamId": 10044,
+      "awayTeamName": "Bagé",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/10044.png",
+      "awayWinner": true,
+      "homeScore": 1,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1544589,
+      "leagueId": 1158,
+      "leagueName": "Copa Gaúcha",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1158.png",
+      "season": 2026,
+      "round": "Group Stage - 6",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 10049,
+      "homeTeamName": "Guarany de Bagé",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10049.png",
+      "homeWinner": null,
+      "awayTeamId": 141,
+      "awayTeamName": "Brasil DE Pelotas",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/141.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1544590,
+      "leagueId": 1158,
+      "leagueName": "Copa Gaúcha",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1158.png",
+      "season": 2026,
+      "round": "Group Stage - 6",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 21233,
+      "homeTeamName": "Monsoon",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/21233.png",
+      "homeWinner": null,
+      "awayTeamId": 10045,
+      "awayTeamName": "Brasil Farroupilha",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/10045.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1544591,
+      "leagueId": 1158,
+      "leagueName": "Copa Gaúcha",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1158.png",
+      "season": 2026,
+      "round": "Group Stage - 6",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Second Half",
+      "statusShort": "2H",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 16479,
+      "homeTeamName": "Santa Cruz RS",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16479.png",
+      "homeWinner": null,
+      "awayTeamId": 25079,
+      "awayTeamName": "Gramadense",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25079.png",
+      "awayWinner": null,
+      "homeScore": 2,
+      "awayScore": 2,
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 2
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547679,
+      "leagueId": 619,
+      "leagueName": "Mineiro - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/619.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 13129,
+      "homeTeamName": "Coimbra",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/13129.png",
+      "homeWinner": null,
+      "awayTeamId": 13081,
+      "awayTeamName": "Democrata SL",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/13081.png",
+      "awayWinner": null,
+      "homeScore": 1,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1547683,
+      "leagueId": 619,
+      "leagueName": "Mineiro - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/619.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 12277,
+      "homeTeamName": "Ipatinga",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12277.png",
+      "homeWinner": false,
+      "awayTeamId": 7869,
+      "awayTeamName": "Villa Nova",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/7869.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1553803,
+      "leagueId": 1183,
+      "leagueName": "Brasileiro U20 B",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1183.png",
+      "season": 2026,
+      "round": "Quarter-finals",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Match Finished",
+      "statusShort": "FT",
+      "elapsed": 90,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 12957,
+      "homeTeamName": "Coritiba U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12957.png",
+      "homeWinner": false,
+      "awayTeamId": 12952,
+      "awayTeamName": "Atlético Mineiro U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12952.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "matchId": 1553804,
+      "leagueId": 1183,
+      "leagueName": "Brasileiro U20 B",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1183.png",
+      "season": 2026,
+      "round": "Quarter-finals",
+      "isoDate": "2026-06-18T01:00:00+07:00",
+      "timestamp": 1781719200,
+      "date": "2026-06-18",
+      "kickoffTime": "01:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Penalty in progress",
+      "statusShort": "P",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 12989,
+      "homeTeamName": "CRB U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12989.png",
+      "homeWinner": true,
+      "awayTeamId": 12971,
+      "awayTeamName": "Sport Recife U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12971.png",
+      "awayWinner": false,
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "matchId": 1544787,
+      "leagueId": 1148,
+      "leagueName": "Maranhense - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1148.png",
+      "season": 2026,
+      "round": "Regular Season - 3",
+      "isoDate": "2026-06-18T01:30:00+07:00",
+      "timestamp": 1781721000,
+      "date": "2026-06-18",
+      "kickoffTime": "01:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25045,
+      "homeTeamName": "Sao Luis",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25045.png",
+      "homeWinner": null,
+      "awayTeamId": 27738,
+      "awayTeamName": "Araioses",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27738.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1544788,
+      "leagueId": 1148,
+      "leagueName": "Maranhense - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1148.png",
+      "season": 2026,
+      "round": "Regular Season - 3",
+      "isoDate": "2026-06-18T01:30:00+07:00",
+      "timestamp": 1781721000,
+      "date": "2026-06-18",
+      "kickoffTime": "01:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25129,
+      "homeTeamName": "Tupan",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25129.png",
+      "homeWinner": null,
+      "awayTeamId": 25044,
+      "awayTeamName": "Expressinho",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25044.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1549940,
+      "leagueId": 1067,
+      "leagueName": "Torneo Promocional Amateur",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1067.png",
+      "season": 2026,
+      "round": "Regular Season - 5",
+      "isoDate": "2026-06-18T01:30:00+07:00",
+      "timestamp": 1781721000,
+      "date": "2026-06-18",
+      "kickoffTime": "01:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27785,
+      "homeTeamName": "Alumni Los Hornos",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27785.png",
+      "homeWinner": null,
+      "awayTeamId": 23102,
+      "awayTeamName": "Ezeiza",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23102.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1549941,
+      "leagueId": 1067,
+      "leagueName": "Torneo Promocional Amateur",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1067.png",
+      "season": 2026,
+      "round": "Regular Season - 5",
+      "isoDate": "2026-06-18T01:30:00+07:00",
+      "timestamp": 1781721000,
+      "date": "2026-06-18",
+      "kickoffTime": "01:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23096,
+      "homeTeamName": "Belgrano Zarate",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23096.png",
+      "homeWinner": null,
+      "awayTeamId": 27786,
+      "awayTeamName": "Buenos Aires City",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27786.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1549942,
+      "leagueId": 1067,
+      "leagueName": "Torneo Promocional Amateur",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1067.png",
+      "season": 2026,
+      "round": "Regular Season - 5",
+      "isoDate": "2026-06-18T01:30:00+07:00",
+      "timestamp": 1781721000,
+      "date": "2026-06-18",
+      "kickoffTime": "01:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27788,
+      "homeTeamName": "Las Mandarinas",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27788.png",
+      "homeWinner": null,
+      "awayTeamId": 23101,
+      "awayTeamName": "Everton La Plata",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23101.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1549943,
+      "leagueId": 1067,
+      "leagueName": "Torneo Promocional Amateur",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1067.png",
+      "season": 2026,
+      "round": "Regular Season - 5",
+      "isoDate": "2026-06-18T01:30:00+07:00",
+      "timestamp": 1781721000,
+      "date": "2026-06-18",
+      "kickoffTime": "01:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27796,
+      "homeTeamName": "Uribelarrea",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27796.png",
+      "homeWinner": null,
+      "awayTeamId": 23095,
+      "awayTeamName": "Barrancas UMET",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23095.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1493545,
+      "leagueId": 255,
+      "leagueName": "USL Championship",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/255.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T02:00:00+07:00",
+      "timestamp": 1781722800,
+      "date": "2026-06-18",
+      "kickoffTime": "02:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Halftime",
+      "statusShort": "HT",
+      "elapsed": 45,
+      "venueName": "Laney College Football Stadium",
+      "venueCity": null,
+      "homeTeamId": 10874,
+      "homeTeamName": "Oakland Roots",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10874.png",
+      "homeWinner": false,
+      "awayTeamId": 3989,
+      "awayTeamName": "Birmingham Legion",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3989.png",
+      "awayWinner": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532217,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T02:00:00+07:00",
+      "timestamp": 1781722800,
+      "date": "2026-06-18",
+      "kickoffTime": "02:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25855,
+      "homeTeamName": "Sporting JAX W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25855.png",
+      "homeWinner": null,
+      "awayTeamId": 25850,
+      "awayTeamName": "Miami City W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25850.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1489384,
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1.png",
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "isoDate": "2026-06-18T03:00:00+07:00",
+      "timestamp": 1781726400,
+      "date": "2026-06-18",
+      "kickoffTime": "03:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "First Half",
+      "statusShort": "1H",
+      "elapsed": 12,
+      "venueName": "AT&T Stadium",
+      "venueCity": "Arlington",
+      "homeTeamId": 10,
+      "homeTeamName": "England",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10.png",
+      "homeWinner": true,
+      "awayTeamId": 3,
+      "awayTeamName": "Croatia",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3.png",
+      "awayWinner": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532450,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T03:30:00+07:00",
+      "timestamp": 1781728200,
+      "date": "2026-06-18",
+      "kickoffTime": "03:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23967,
+      "homeTeamName": "Wake W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23967.png",
+      "homeWinner": null,
+      "awayTeamId": 23829,
+      "awayTeamName": "Port City NC W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23829.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524951,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T04:00:00+07:00",
+      "timestamp": 1781730000,
+      "date": "2026-06-18",
+      "kickoffTime": "04:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4039,
+      "homeTeamName": "Charlotte Eagles",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4039.png",
+      "homeWinner": null,
+      "awayTeamId": 4076,
+      "awayTeamName": "SC United Bantams",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4076.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532218,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T04:30:00+07:00",
+      "timestamp": 1781731800,
+      "date": "2026-06-18",
+      "kickoffTime": "04:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23964,
+      "homeTeamName": "Tormenta W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23964.png",
+      "homeWinner": null,
+      "awayTeamId": 25842,
+      "awayTeamName": "Carolina Ascent II W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25842.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1550645,
+      "leagueId": 1097,
+      "leagueName": "Copa Espírito Santo",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1097.png",
+      "season": 2026,
+      "round": "Semi-finals",
+      "isoDate": "2026-06-18T04:45:00+07:00",
+      "timestamp": 1781732700,
+      "date": "2026-06-18",
+      "kickoffTime": "04:45",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 15609,
+      "homeTeamName": "Vilavelhense",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/15609.png",
+      "homeWinner": null,
+      "awayTeamId": 7837,
+      "awayTeamName": "Vitória ES",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/7837.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524952,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 21288,
+      "homeTeamName": "Rochester",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/21288.png",
+      "homeWinner": null,
+      "awayTeamId": 21286,
+      "awayTeamName": "RKC",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/21286.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524953,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23112,
+      "homeTeamName": "Brooke House",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23112.png",
+      "homeWinner": null,
+      "awayTeamId": 23119,
+      "awayTeamName": "Inter Gainesville",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23119.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524954,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 10098,
+      "homeTeamName": "Louisville City II",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10098.png",
+      "homeWinner": null,
+      "awayTeamId": 4045,
+      "awayTeamName": "Dayton Dutch Lions",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4045.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524955,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18900,
+      "homeTeamName": "Miami AC",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18900.png",
+      "homeWinner": null,
+      "awayTeamId": 27518,
+      "awayTeamName": "Lakeland United",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27518.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1526182,
+      "leagueId": 740,
+      "leagueName": "Brasileiro U20 A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/740.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18345,
+      "homeTeamName": "RB Bragantino U20",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18345.png",
+      "homeWinner": null,
+      "awayTeamId": 13008,
+      "awayTeamName": "Fluminense U20",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/13008.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532219,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 16488,
+      "homeTeamName": "Racing Louisville W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16488.png",
+      "homeWinner": null,
+      "awayTeamId": 23880,
+      "awayTeamName": "Dayton Dutch Lions W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23880.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532220,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23954,
+      "homeTeamName": "North Carolina Fusion W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23954.png",
+      "homeWinner": null,
+      "awayTeamId": 23911,
+      "awayTeamName": "NC Courage II W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23911.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532221,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25934,
+      "homeTeamName": "AMSG W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25934.png",
+      "homeWinner": null,
+      "awayTeamId": 25929,
+      "awayTeamName": "Sta Clarita Blue Heat W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25929.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547680,
+      "leagueId": 619,
+      "leagueName": "Mineiro - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/619.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 7769,
+      "homeTeamName": "Caldense",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/7769.png",
+      "homeWinner": null,
+      "awayTeamId": 12296,
+      "awayTeamName": "Guarani MG",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12296.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547681,
+      "leagueId": 619,
+      "leagueName": "Mineiro - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/619.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T05:00:00+07:00",
+      "timestamp": 1781733600,
+      "date": "2026-06-18",
+      "kickoffTime": "05:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 13082,
+      "homeTeamName": "Mamoré",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/13082.png",
+      "homeWinner": null,
+      "awayTeamId": 153,
+      "awayTeamName": "BOA",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/153.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524956,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T05:30:00+07:00",
+      "timestamp": 1781735400,
+      "date": "2026-06-18",
+      "kickoffTime": "05:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 26805,
+      "homeTeamName": "Port City",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/26805.png",
+      "homeWinner": null,
+      "awayTeamId": 23993,
+      "awayTeamName": "Hickory",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23993.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532222,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T05:30:00+07:00",
+      "timestamp": 1781735400,
+      "date": "2026-06-18",
+      "kickoffTime": "05:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23937,
+      "homeTeamName": "Chattanooga Red Wolves W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23937.png",
+      "homeWinner": null,
+      "awayTeamId": 25848,
+      "awayTeamName": "Knoxville W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25848.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1541981,
+      "leagueId": 936,
+      "leagueName": "Catarinense - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/936.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T05:30:00+07:00",
+      "timestamp": 1781735400,
+      "date": "2026-06-18",
+      "kickoffTime": "05:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Arena Joinville",
+      "venueCity": "Joinville",
+      "homeTeamId": 19637,
+      "homeTeamName": "Nação",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/19637.png",
+      "homeWinner": null,
+      "awayTeamId": 12912,
+      "awayTeamName": "Juventus SC",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12912.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547682,
+      "leagueId": 619,
+      "leagueName": "Mineiro - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/619.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T05:30:00+07:00",
+      "timestamp": 1781735400,
+      "date": "2026-06-18",
+      "kickoffTime": "05:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18795,
+      "homeTeamName": "Uberaba",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18795.png",
+      "homeWinner": null,
+      "awayTeamId": 7824,
+      "awayTeamName": "CAP",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/7824.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1489385,
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1.png",
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "BMO Field",
+      "venueCity": "Toronto",
+      "homeTeamId": 1504,
+      "homeTeamName": "Ghana",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/1504.png",
+      "homeWinner": null,
+      "awayTeamId": 11,
+      "awayTeamName": "Panama",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/11.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1493544,
+      "leagueId": 255,
+      "leagueName": "USL Championship",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/255.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Michael A. Carroll Stadium",
+      "venueCity": null,
+      "homeTeamId": 3996,
+      "homeTeamName": "Indy Eleven",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/3996.png",
+      "homeWinner": null,
+      "awayTeamId": 27252,
+      "awayTeamName": "Brooklyn",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27252.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1512961,
+      "leagueId": 909,
+      "leagueName": "MLS Next Pro",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/909.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Belson Stadium",
+      "venueCity": null,
+      "homeTeamId": 18815,
+      "homeTeamName": "New York City II",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18815.png",
+      "homeWinner": null,
+      "awayTeamId": 23063,
+      "awayTeamName": "Carolina Core",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23063.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524948,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 9041,
+      "homeTeamName": "Christos",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/9041.png",
+      "homeWinner": null,
+      "awayTeamId": 4049,
+      "awayTeamName": "Evergreen",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4049.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524950,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4077,
+      "homeTeamName": "SF Glens",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4077.png",
+      "homeWinner": null,
+      "awayTeamId": 10145,
+      "awayTeamName": "Academica",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/10145.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524957,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18884,
+      "homeTeamName": "Blackwatch Rush",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18884.png",
+      "homeWinner": null,
+      "awayTeamId": 4031,
+      "awayTeamName": "AC Connecticut",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4031.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524959,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23971,
+      "homeTeamName": "Annapolis Blues",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23971.png",
+      "homeWinner": null,
+      "awayTeamId": 27516,
+      "awayTeamName": "Hill City",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27516.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524960,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 10096,
+      "homeTeamName": "Charlotte Independence 2",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10096.png",
+      "homeWinner": null,
+      "awayTeamId": 4066,
+      "awayTeamName": "North Carolina Fusion",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4066.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524961,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27514,
+      "homeTeamName": "Connecticut Rush",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27514.png",
+      "homeWinner": null,
+      "awayTeamId": 4100,
+      "awayTeamName": "Western Mass Pioneers",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4100.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524965,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4061,
+      "homeTeamName": "Lionsbridge",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4061.png",
+      "homeWinner": null,
+      "awayTeamId": 18907,
+      "awayTeamName": "Patuxent",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18907.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524967,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27521,
+      "homeTeamName": "Pittsburgh Riverhounds 2",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27521.png",
+      "homeWinner": null,
+      "awayTeamId": 27519,
+      "awayTeamName": "Lorain County Leviathan",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27519.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524970,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27523,
+      "homeTeamName": "Sporting Jax 2",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27523.png",
+      "homeWinner": null,
+      "awayTeamId": 18903,
+      "awayTeamName": "Nona",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18903.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524972,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4089,
+      "homeTeamName": "Tobacco Road",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4089.png",
+      "homeWinner": null,
+      "awayTeamId": 20961,
+      "awayTeamName": "Appalachian",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/20961.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524973,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 16690,
+      "homeTeamName": "Toledo Villa",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16690.png",
+      "homeWinner": null,
+      "awayTeamId": 25941,
+      "awayTeamName": "Kings Hammer Columbus",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25941.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524974,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 13192,
+      "homeTeamName": "Virginia Beach City",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/13192.png",
+      "homeWinner": null,
+      "awayTeamId": 27513,
+      "awayTeamName": "Bethesda SC",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27513.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524975,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4097,
+      "homeTeamName": "Wake",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4097.png",
+      "homeWinner": null,
+      "awayTeamId": 4067,
+      "awayTeamName": "North Carolina II",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4067.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532216,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23941,
+      "homeTeamName": "Cleveland Force W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23941.png",
+      "homeWinner": null,
+      "awayTeamId": 25843,
+      "awayTeamName": "Erie Sports Center W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25843.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532223,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23899,
+      "homeTeamName": "Eagle FC W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23899.png",
+      "homeWinner": null,
+      "awayTeamId": 24134,
+      "awayTeamName": "Lancaster Inferno W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/24134.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532451,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23936,
+      "homeTeamName": "Charlottesville Blues W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23936.png",
+      "homeWinner": null,
+      "awayTeamId": 27614,
+      "awayTeamName": "Virginia Development Academy W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27614.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547684,
+      "leagueId": 619,
+      "leagueName": "Mineiro - 2",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/619.png",
+      "season": 2026,
+      "round": "Regular Season - 4",
+      "isoDate": "2026-06-18T06:00:00+07:00",
+      "timestamp": 1781737200,
+      "date": "2026-06-18",
+      "kickoffTime": "06:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23247,
+      "homeTeamName": "Valeriodoce",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23247.png",
+      "homeWinner": null,
+      "awayTeamId": 16751,
+      "awayTeamName": "Aymorés",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/16751.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524441,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:30:00+07:00",
+      "timestamp": 1781739000,
+      "date": "2026-06-18",
+      "kickoffTime": "06:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 21293,
+      "homeTeamName": "Virginia Marauders",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/21293.png",
+      "homeWinner": null,
+      "awayTeamId": 23114,
+      "awayTeamName": "Charlottesville Blues",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23114.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524949,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:30:00+07:00",
+      "timestamp": 1781739000,
+      "date": "2026-06-18",
+      "kickoffTime": "06:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 10097,
+      "homeTeamName": "East Atlanta",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10097.png",
+      "homeWinner": null,
+      "awayTeamId": 25944,
+      "awayTeamName": "Montgomery United",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25944.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524977,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:30:00+07:00",
+      "timestamp": 1781739000,
+      "date": "2026-06-18",
+      "kickoffTime": "06:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23216,
+      "homeTeamName": "Apotheos",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23216.png",
+      "homeWinner": null,
+      "awayTeamId": 10103,
+      "awayTeamName": "Southern Soccer Academy",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/10103.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524981,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:30:00+07:00",
+      "timestamp": 1781739000,
+      "date": "2026-06-18",
+      "kickoffTime": "06:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4099,
+      "homeTeamName": "Westchester Flames",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4099.png",
+      "homeWinner": null,
+      "awayTeamId": 21283,
+      "awayTeamName": "Ironbound",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/21283.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532224,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T06:30:00+07:00",
+      "timestamp": 1781739000,
+      "date": "2026-06-18",
+      "kickoffTime": "06:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23922,
+      "homeTeamName": "SSA Royals W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23922.png",
+      "homeWinner": null,
+      "awayTeamId": 23931,
+      "awayTeamName": "Asheville City W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23931.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532225,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T06:30:00+07:00",
+      "timestamp": 1781739000,
+      "date": "2026-06-18",
+      "kickoffTime": "06:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23953,
+      "homeTeamName": "Morris Elite W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23953.png",
+      "homeWinner": null,
+      "awayTeamId": 23916,
+      "awayTeamName": "Paisley Athletic W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23916.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532226,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T06:30:00+07:00",
+      "timestamp": 1781739000,
+      "date": "2026-06-18",
+      "kickoffTime": "06:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23897,
+      "homeTeamName": "Charlotte Eagles II W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23897.png",
+      "homeWinner": null,
+      "awayTeamId": 23959,
+      "awayTeamName": "SC United Bantams W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23959.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532227,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T06:30:00+07:00",
+      "timestamp": 1781739000,
+      "date": "2026-06-18",
+      "kickoffTime": "06:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23957,
+      "homeTeamName": "River Light W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23957.png",
+      "homeWinner": null,
+      "awayTeamId": 23919,
+      "awayTeamName": "RKC Third Coast W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23919.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524978,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T06:40:00+07:00",
+      "timestamp": 1781739600,
+      "date": "2026-06-18",
+      "kickoffTime": "06:40",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23979,
+      "homeTeamName": "Columbus United",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23979.png",
+      "homeWinner": null,
+      "awayTeamId": 23111,
+      "awayTeamName": "Birmingham Legion II",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23111.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524963,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:00:00+07:00",
+      "timestamp": 1781740800,
+      "date": "2026-06-18",
+      "kickoffTime": "07:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27517,
+      "homeTeamName": "Jackson Boom",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27517.png",
+      "homeWinner": null,
+      "awayTeamId": 25946,
+      "awayTeamName": "Red River",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25946.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524966,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:00:00+07:00",
+      "timestamp": 1781740800,
+      "date": "2026-06-18",
+      "kickoffTime": "07:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 10067,
+      "homeTeamName": "Louisiana Krewe",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10067.png",
+      "homeWinner": null,
+      "awayTeamId": 23117,
+      "awayTeamName": "Hattiesburg",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23117.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524968,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:00:00+07:00",
+      "timestamp": 1781740800,
+      "date": "2026-06-18",
+      "kickoffTime": "07:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27526,
+      "homeTeamName": "Rockford Raptors",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27526.png",
+      "homeWinner": null,
+      "awayTeamId": 23123,
+      "awayTeamName": "Sueno",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23123.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524971,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:00:00+07:00",
+      "timestamp": 1781740800,
+      "date": "2026-06-18",
+      "kickoffTime": "07:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25950,
+      "homeTeamName": "St. Louis Ambush",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25950.png",
+      "homeWinner": null,
+      "awayTeamId": 4047,
+      "awayTeamName": "Des Moines Menace",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4047.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524976,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:00:00+07:00",
+      "timestamp": 1781740800,
+      "date": "2026-06-18",
+      "kickoffTime": "07:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4101,
+      "homeTeamName": "Weston",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4101.png",
+      "homeWinner": null,
+      "awayTeamId": 4051,
+      "awayTeamName": "FC Miami City",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4051.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1525408,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:00:00+07:00",
+      "timestamp": 1781740800,
+      "date": "2026-06-18",
+      "kickoffTime": "07:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4001,
+      "homeTeamName": "Memphis 901",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4001.png",
+      "homeWinner": null,
+      "awayTeamId": 9029,
+      "awayTeamName": "Little Rock Rangers",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/9029.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532215,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T07:00:00+07:00",
+      "timestamp": 1781740800,
+      "date": "2026-06-18",
+      "kickoffTime": "07:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23951,
+      "homeTeamName": "Miami AC W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23951.png",
+      "homeWinner": null,
+      "awayTeamId": 25845,
+      "awayTeamName": "Fort Lauderdale Utd II W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25845.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532228,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T07:00:00+07:00",
+      "timestamp": 1781740800,
+      "date": "2026-06-18",
+      "kickoffTime": "07:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23910,
+      "homeTeamName": "Minnesota Aurora W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23910.png",
+      "homeWinner": null,
+      "awayTeamId": 23854,
+      "awayTeamName": "Sioux Falls City W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23854.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1493543,
+      "leagueId": 255,
+      "leagueName": "USL Championship",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/255.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:30:00+07:00",
+      "timestamp": 1781742600,
+      "date": "2026-06-18",
+      "kickoffTime": "07:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "ONEOK Field",
+      "venueCity": null,
+      "homeTeamId": 4022,
+      "homeTeamName": "FC Tulsa",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4022.png",
+      "homeWinner": null,
+      "awayTeamId": 18375,
+      "awayTeamName": "Monterey Bay",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18375.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524979,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:30:00+07:00",
+      "timestamp": 1781742600,
+      "date": "2026-06-18",
+      "kickoffTime": "07:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 9047,
+      "homeTeamName": "Fort Worth Vaqueros",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/9047.png",
+      "homeWinner": null,
+      "awayTeamId": 25943,
+      "awayTeamName": "McKinney Chupacabras",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25943.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524980,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T07:30:00+07:00",
+      "timestamp": 1781742600,
+      "date": "2026-06-18",
+      "kickoffTime": "07:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25949,
+      "homeTeamName": "Springfield",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25949.png",
+      "homeWinner": null,
+      "awayTeamId": 10101,
+      "awayTeamName": "Peoria",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/10101.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532229,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T07:30:00+07:00",
+      "timestamp": 1781742600,
+      "date": "2026-06-18",
+      "kickoffTime": "07:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23908,
+      "homeTeamName": "Marin FC Siren W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23908.png",
+      "homeWinner": null,
+      "awayTeamId": 23914,
+      "awayTeamName": "Oakland Soul W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23914.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1493866,
+      "leagueId": 489,
+      "leagueName": "USL League One",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/489.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T08:00:00+07:00",
+      "timestamp": 1781744400,
+      "date": "2026-06-18",
+      "kickoffTime": "08:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Breese Stevens Field",
+      "venueCity": null,
+      "homeTeamId": 9025,
+      "homeTeamName": "Forward Madison",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/9025.png",
+      "homeWinner": null,
+      "awayTeamId": 16679,
+      "awayTeamName": "Fort Wayne",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/16679.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1513162,
+      "leagueId": 909,
+      "leagueName": "MLS Next Pro",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/909.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T08:00:00+07:00",
+      "timestamp": 1781744400,
+      "date": "2026-06-18",
+      "kickoffTime": "08:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Swangard Stadium",
+      "venueCity": null,
+      "homeTeamId": 4028,
+      "homeTeamName": "Vancouver Whitecaps II",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4028.png",
+      "homeWinner": null,
+      "awayTeamId": 18816,
+      "awayTeamName": "The Town",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18816.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524983,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T08:00:00+07:00",
+      "timestamp": 1781744400,
+      "date": "2026-06-18",
+      "kickoffTime": "08:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 9028,
+      "homeTeamName": "Laredo Heat",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/9028.png",
+      "homeWinner": null,
+      "awayTeamId": 4036,
+      "awayTeamName": "Brazos Valley",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4036.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532452,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T08:00:00+07:00",
+      "timestamp": 1781744400,
+      "date": "2026-06-18",
+      "kickoffTime": "08:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27617,
+      "homeTeamName": "Real Colorado W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27617.png",
+      "homeWinner": null,
+      "awayTeamId": 23942,
+      "awayTeamName": "Colorado ISA W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/23942.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1489386,
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1.png",
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "isoDate": "2026-06-18T09:00:00+07:00",
+      "timestamp": 1781748000,
+      "date": "2026-06-18",
+      "kickoffTime": "09:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Estadio Azteca",
+      "venueCity": "Mexico City",
+      "homeTeamId": 1568,
+      "homeTeamName": "Uzbekistan",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/1568.png",
+      "homeWinner": null,
+      "awayTeamId": 8,
+      "awayTeamName": "Colombia",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/8.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1513163,
+      "leagueId": 909,
+      "leagueName": "MLS Next Pro",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/909.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T09:00:00+07:00",
+      "timestamp": 1781748000,
+      "date": "2026-06-18",
+      "kickoffTime": "09:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Starfire Sports",
+      "venueCity": null,
+      "homeTeamId": 4020,
+      "homeTeamName": "Tacoma Defiance",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4020.png",
+      "homeWinner": null,
+      "awayTeamId": 18813,
+      "awayTeamName": "Houston Dynamo FC II",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18813.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524958,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T09:00:00+07:00",
+      "timestamp": 1781748000,
+      "date": "2026-06-18",
+      "kickoffTime": "09:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23107,
+      "homeTeamName": "AMSG",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23107.png",
+      "homeWinner": null,
+      "awayTeamId": 4093,
+      "awayTeamName": "Ventura County Fusion",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4093.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524962,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T09:00:00+07:00",
+      "timestamp": 1781748000,
+      "date": "2026-06-18",
+      "kickoffTime": "09:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18893,
+      "homeTeamName": "Davis Legacy",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18893.png",
+      "homeWinner": null,
+      "awayTeamId": 18899,
+      "awayTeamName": "Marin",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/18899.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524969,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T09:00:00+07:00",
+      "timestamp": 1781748000,
+      "date": "2026-06-18",
+      "kickoffTime": "09:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4083,
+      "homeTeamName": "Seahorses",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4083.png",
+      "homeWinner": null,
+      "awayTeamId": 21287,
+      "awayTeamName": "Redlands",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/21287.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532230,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T09:00:00+07:00",
+      "timestamp": 1781748000,
+      "date": "2026-06-18",
+      "kickoffTime": "09:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25853,
+      "homeTeamName": "Salmon Bay W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25853.png",
+      "homeWinner": null,
+      "awayTeamId": 25856,
+      "awayTeamName": "West Seattle Rhodies W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25856.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1532231,
+      "leagueId": 1117,
+      "leagueName": "USL W League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1117.png",
+      "season": 2026,
+      "round": "Regular Season - 1",
+      "isoDate": "2026-06-18T09:30:00+07:00",
+      "timestamp": 1781749800,
+      "date": "2026-06-18",
+      "kickoffTime": "09:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 23857,
+      "homeTeamName": "SoCal Dutch Lions W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/23857.png",
+      "homeWinner": null,
+      "awayTeamId": 25935,
+      "awayTeamName": "Capo W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25935.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1524982,
+      "leagueId": 256,
+      "leagueName": "USL League Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/256.png",
+      "season": 2026,
+      "round": "Group Stage",
+      "isoDate": "2026-06-18T10:00:00+07:00",
+      "timestamp": 1781751600,
+      "date": "2026-06-18",
+      "kickoffTime": "10:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "JSerra Catholic High School",
+      "venueCity": null,
+      "homeTeamId": 20963,
+      "homeTeamName": "Capo",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/20963.png",
+      "homeWinner": null,
+      "awayTeamId": 25937,
+      "awayTeamName": "City SC",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25937.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1542415,
+      "leagueId": 764,
+      "leagueName": "Premier League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/764.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T14:00:00+07:00",
+      "timestamp": 1781766000,
+      "date": "2026-06-18",
+      "kickoffTime": "14:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 26669,
+      "homeTeamName": "Khovd Western",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/26669.png",
+      "homeWinner": null,
+      "awayTeamId": 16187,
+      "awayTeamName": "Khangarid",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/16187.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1495703,
+      "leagueId": 244,
+      "leagueName": "Veikkausliiga",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/244.png",
+      "season": 2026,
+      "round": "Regular Season - 11",
+      "isoDate": "2026-06-18T16:59:00+07:00",
+      "timestamp": 1781776740,
+      "date": "2026-06-18",
+      "kickoffTime": "16:59",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Raatin stadion",
+      "venueCity": "Oulu",
+      "homeTeamId": 2077,
+      "homeTeamName": "AC Oulu",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/2077.png",
+      "homeWinner": null,
+      "awayTeamId": 587,
+      "awayTeamName": "Mariehamn",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/587.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1534770,
+      "leagueId": 388,
+      "leagueName": "1. Division",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/388.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T17:00:00+07:00",
+      "timestamp": 1781776800,
+      "date": "2026-06-18",
+      "kickoffTime": "17:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 27634,
+      "homeTeamName": "Tobol 2",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/27634.png",
+      "homeWinner": null,
+      "awayTeamId": 4551,
+      "awayTeamName": "Ekibastuz",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4551.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1542416,
+      "leagueId": 764,
+      "leagueName": "Premier League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/764.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T17:00:00+07:00",
+      "timestamp": 1781776800,
+      "date": "2026-06-18",
+      "kickoffTime": "17:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 18104,
+      "homeTeamName": "Khovd",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/18104.png",
+      "homeWinner": null,
+      "awayTeamId": 16185,
+      "awayTeamName": "Deren",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/16185.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1543581,
+      "leagueId": 1031,
+      "leagueName": "Premier League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1031.png",
+      "season": 2026,
+      "round": null,
+      "isoDate": "2026-06-18T17:00:00+07:00",
+      "timestamp": 1781776800,
+      "date": "2026-06-18",
+      "kickoffTime": "17:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 21277,
+      "homeTeamName": "Tsirang",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/21277.png",
+      "homeWinner": null,
+      "awayTeamId": 5590,
+      "awayTeamName": "Tensung",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/5590.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1510790,
+      "leagueId": 593,
+      "leagueName": "Division 2 - Norra Svealand",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/593.png",
+      "season": 2026,
+      "round": "Norra Svealand - 13",
+      "isoDate": "2026-06-18T17:30:00+07:00",
+      "timestamp": 1781778600,
+      "date": "2026-06-18",
+      "kickoffTime": "17:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 6671,
+      "homeTeamName": "Gute",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/6671.png",
+      "homeWinner": null,
+      "awayTeamId": 22932,
+      "awayTeamName": "Falu BS",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/22932.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1534767,
+      "leagueId": 388,
+      "leagueName": "1. Division",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/388.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T18:00:00+07:00",
+      "timestamp": 1781780400,
+      "date": "2026-06-18",
+      "kickoffTime": "18:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4548,
+      "homeTeamName": "Astana II",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4548.png",
+      "homeWinner": null,
+      "awayTeamId": 4556,
+      "awayTeamName": "Sport Academy Kairat",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4556.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1534765,
+      "leagueId": 388,
+      "leagueName": "1. Division",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/388.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T19:00:00+07:00",
+      "timestamp": 1781784000,
+      "date": "2026-06-18",
+      "kickoffTime": "19:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 4545,
+      "homeTeamName": "Akademiya Ontustik",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/4545.png",
+      "homeWinner": null,
+      "awayTeamId": 27635,
+      "awayTeamName": "Yelimay Semey 2",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27635.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1457805,
+      "leagueId": 567,
+      "leagueName": "Ligi kuu Bara",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/567.png",
+      "season": 2025,
+      "round": "Regular Season - 27",
+      "isoDate": "2026-06-18T20:00:00+07:00",
+      "timestamp": 1781787600,
+      "date": "2026-06-18",
+      "kickoffTime": "20:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Isamuhyo Stadium",
+      "venueCity": null,
+      "homeTeamId": 12190,
+      "homeTeamName": "JKT Tanzania",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12190.png",
+      "homeWinner": null,
+      "awayTeamId": 12202,
+      "awayTeamName": "Tanzania Prisons",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12202.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1477244,
+      "leagueId": 567,
+      "leagueName": "Ligi kuu Bara",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/567.png",
+      "season": 2025,
+      "round": "Regular Season - 27",
+      "isoDate": "2026-06-18T20:00:00+07:00",
+      "timestamp": 1781787600,
+      "date": "2026-06-18",
+      "kickoffTime": "20:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "CCM Kirumba Stadium",
+      "venueCity": "Mwanza",
+      "homeTeamId": 24707,
+      "homeTeamName": "Pamba Jiji",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24707.png",
+      "homeWinner": null,
+      "awayTeamId": 12195,
+      "awayTeamName": "Mtibwa Sugar",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/12195.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1477246,
+      "leagueId": 567,
+      "leagueName": "Ligi kuu Bara",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/567.png",
+      "season": 2025,
+      "round": "Regular Season - 27",
+      "isoDate": "2026-06-18T20:00:00+07:00",
+      "timestamp": 1781787600,
+      "date": "2026-06-18",
+      "kickoffTime": "20:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Kwaraa Stadium",
+      "venueCity": null,
+      "homeTeamId": 19838,
+      "homeTeamName": "Fountain Gate",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/19838.png",
+      "homeWinner": null,
+      "awayTeamId": 5370,
+      "awayTeamName": "Young Africans",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/5370.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1495499,
+      "leagueId": 549,
+      "leagueName": "Damallsvenskan",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T20:00:00+07:00",
+      "timestamp": 1781787600,
+      "date": "2026-06-18",
+      "kickoffTime": "20:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Grimsta IP",
+      "venueCity": "Stockholm",
+      "homeTeamId": 16004,
+      "homeTeamName": "Brommapojkarna W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16004.png",
+      "homeWinner": null,
+      "awayTeamId": 11083,
+      "awayTeamName": "Vittsjö W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/11083.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1534766,
+      "leagueId": 388,
+      "leagueName": "1. Division",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/388.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T20:00:00+07:00",
+      "timestamp": 1781787600,
+      "date": "2026-06-18",
+      "kickoffTime": "20:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 10414,
+      "homeTeamName": "Arys",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10414.png",
+      "homeWinner": null,
+      "awayTeamId": 27633,
+      "awayTeamName": "Kaspij Aktau 2",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27633.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1509146,
+      "leagueId": 327,
+      "leagueName": "Erovnuli Liga",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/327.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T20:30:00+07:00",
+      "timestamp": 1781789400,
+      "date": "2026-06-18",
+      "kickoffTime": "20:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Agrano Vachadze Stadium",
+      "venueCity": null,
+      "homeTeamId": 13847,
+      "homeTeamName": "Meshakhte",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/13847.png",
+      "homeWinner": null,
+      "awayTeamId": 3505,
+      "awayTeamName": "Gagra",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3505.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1495496,
+      "leagueId": 549,
+      "leagueName": "Damallsvenskan",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T21:00:00+07:00",
+      "timestamp": 1781791200,
+      "date": "2026-06-18",
+      "kickoffTime": "21:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Tunavallen",
+      "venueCity": "Eskilstuna",
+      "homeTeamId": 11077,
+      "homeTeamName": "Eskilstuna United W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/11077.png",
+      "homeWinner": null,
+      "awayTeamId": 10900,
+      "awayTeamName": "Piteå W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/10900.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1534053,
+      "leagueId": 1182,
+      "leagueName": "Northern Super League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1182.png",
+      "season": 2026,
+      "round": null,
+      "isoDate": "2026-06-18T21:00:00+07:00",
+      "timestamp": 1781791200,
+      "date": "2026-06-18",
+      "kickoffTime": "21:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 25898,
+      "homeTeamName": "Halifax Tides W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25898.png",
+      "homeWinner": null,
+      "awayTeamId": 25901,
+      "awayTeamName": "Vancouver Rise W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/25901.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1553767,
+      "leagueId": 200,
+      "leagueName": "Botola Pro",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/200.png",
+      "season": 2025,
+      "round": "Regular Season - 25",
+      "isoDate": "2026-06-18T21:00:00+07:00",
+      "timestamp": 1781791200,
+      "date": "2026-06-18",
+      "kickoffTime": "21:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Stade Municipal de Berkane",
+      "venueCity": "Berkane",
+      "homeTeamId": 962,
+      "homeTeamName": "Renaissance Berkane",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/962.png",
+      "homeWinner": null,
+      "awayTeamId": 975,
+      "awayTeamName": "Olympique Safi",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/975.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1553768,
+      "leagueId": 200,
+      "leagueName": "Botola Pro",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/200.png",
+      "season": 2025,
+      "round": "Regular Season - 25",
+      "isoDate": "2026-06-18T21:00:00+07:00",
+      "timestamp": 1781791200,
+      "date": "2026-06-18",
+      "kickoffTime": "21:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Stade Adrar",
+      "venueCity": "Agadir",
+      "homeTeamId": 3454,
+      "homeTeamName": "Olympique Dcheïra",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/3454.png",
+      "homeWinner": null,
+      "awayTeamId": 969,
+      "awayTeamName": "FAR Rabat",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/969.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1553769,
+      "leagueId": 200,
+      "leagueName": "Botola Pro",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/200.png",
+      "season": 2025,
+      "round": "Regular Season - 25",
+      "isoDate": "2026-06-18T21:00:00+07:00",
+      "timestamp": 1781791200,
+      "date": "2026-06-18",
+      "kickoffTime": "21:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Stade Mohamed V",
+      "venueCity": "Casablanca",
+      "homeTeamId": 968,
+      "homeTeamName": "Wydad AC",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/968.png",
+      "homeWinner": null,
+      "awayTeamId": 977,
+      "awayTeamName": "FUS Rabat",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/977.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1553770,
+      "leagueId": 200,
+      "leagueName": "Botola Pro",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/200.png",
+      "season": 2025,
+      "round": "Regular Season - 25",
+      "isoDate": "2026-06-18T21:00:00+07:00",
+      "timestamp": 1781791200,
+      "date": "2026-06-18",
+      "kickoffTime": "21:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Stade Olympique de Rabat",
+      "venueCity": "Rabat",
+      "homeTeamId": 25058,
+      "homeTeamName": "Yacoub El Mansour",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25058.png",
+      "homeWinner": null,
+      "awayTeamId": 973,
+      "awayTeamName": "Hassania Agadir",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/973.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1519577,
+      "leagueId": 328,
+      "leagueName": "Esiliiga A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/328.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T22:00:00+07:00",
+      "timestamp": 1781794800,
+      "date": "2026-06-18",
+      "kickoffTime": "22:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Maarjamae staadion",
+      "venueCity": "Tallinn",
+      "homeTeamId": 3517,
+      "homeTeamName": "FCI Levadia II",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/3517.png",
+      "homeWinner": null,
+      "awayTeamId": 3524,
+      "awayTeamName": "Tartu Welco",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3524.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1519578,
+      "leagueId": 328,
+      "leagueName": "Esiliiga A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/328.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T22:00:00+07:00",
+      "timestamp": 1781794800,
+      "date": "2026-06-18",
+      "kickoffTime": "22:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": "Tallinn",
+      "homeTeamId": 25755,
+      "homeTeamName": "Nõmme United II",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/25755.png",
+      "homeWinner": null,
+      "awayTeamId": 3529,
+      "awayTeamName": "Tallinna Kalev",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3529.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1534771,
+      "leagueId": 388,
+      "leagueName": "1. Division",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/388.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T22:00:00+07:00",
+      "timestamp": 1781794800,
+      "date": "2026-06-18",
+      "kickoffTime": "22:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Turkestan Arena",
+      "venueCity": "Turkestan",
+      "homeTeamId": 21502,
+      "homeTeamName": "Turan Turkistan",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/21502.png",
+      "homeWinner": null,
+      "awayTeamId": 4546,
+      "awayTeamName": "Aktobe Jas",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/4546.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1545678,
+      "leagueId": 667,
+      "leagueName": "Friendlies Clubs",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/667.png",
+      "season": 2026,
+      "round": "Club Friendlies",
+      "isoDate": "2026-06-18T22:00:00+07:00",
+      "timestamp": 1781794800,
+      "date": "2026-06-18",
+      "kickoffTime": "22:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 366,
+      "homeTeamName": "IFK Goteborg",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/366.png",
+      "homeWinner": null,
+      "awayTeamId": 326,
+      "awayTeamName": "Valerenga",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/326.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547547,
+      "leagueId": 813,
+      "leagueName": "Elite Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/813.png",
+      "season": 2026,
+      "round": "Relegation Group - 6",
+      "isoDate": "2026-06-18T22:00:00+07:00",
+      "timestamp": 1781794800,
+      "date": "2026-06-18",
+      "kickoffTime": "22:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 5557,
+      "homeTeamName": "Bamboutos",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/5557.png",
+      "homeWinner": null,
+      "awayTeamId": 22588,
+      "awayTeamName": "Bafmeng United",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/22588.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547548,
+      "leagueId": 813,
+      "leagueName": "Elite Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/813.png",
+      "season": 2026,
+      "round": "Relegation Group - 6",
+      "isoDate": "2026-06-18T22:00:00+07:00",
+      "timestamp": 1781794800,
+      "date": "2026-06-18",
+      "kickoffTime": "22:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 16527,
+      "homeTeamName": "Foncha ST",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16527.png",
+      "homeWinner": null,
+      "awayTeamId": 16525,
+      "awayTeamName": "FAP",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/16525.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547549,
+      "leagueId": 813,
+      "leagueName": "Elite Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/813.png",
+      "season": 2026,
+      "round": "Relegation Group - 6",
+      "isoDate": "2026-06-18T22:00:00+07:00",
+      "timestamp": 1781794800,
+      "date": "2026-06-18",
+      "kickoffTime": "22:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 10153,
+      "homeTeamName": "Tonnerre",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10153.png",
+      "homeWinner": null,
+      "awayTeamId": 5558,
+      "awayTeamName": "Yafoot",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/5558.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1547550,
+      "leagueId": 813,
+      "leagueName": "Elite Two",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/813.png",
+      "season": 2026,
+      "round": "Relegation Group - 6",
+      "isoDate": "2026-06-18T22:00:00+07:00",
+      "timestamp": 1781794800,
+      "date": "2026-06-18",
+      "kickoffTime": "22:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 5413,
+      "homeTeamName": "Union Douala",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/5413.png",
+      "homeWinner": null,
+      "awayTeamId": 27458,
+      "awayTeamName": "Sable",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27458.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1495497,
+      "leagueId": 549,
+      "leagueName": "Damallsvenskan",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Nordic Wellness Arena",
+      "venueCity": null,
+      "homeTeamId": 16483,
+      "homeTeamName": "Häcken W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16483.png",
+      "homeWinner": null,
+      "awayTeamId": 11075,
+      "awayTeamName": "Rosengård W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/11075.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1495500,
+      "leagueId": 549,
+      "leagueName": "Damallsvenskan",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Kristianstad Arena",
+      "venueCity": "Kristianstad",
+      "homeTeamId": 11079,
+      "homeTeamName": "Kristianstad W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/11079.png",
+      "homeWinner": null,
+      "awayTeamId": 11082,
+      "awayTeamName": "Uppsala W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/11082.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1509144,
+      "leagueId": 327,
+      "leagueName": "Erovnuli Liga",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/327.png",
+      "season": 2026,
+      "round": "Regular Season - 18",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Boris Paichadze Dinamo Arena",
+      "venueCity": "Tbilisi",
+      "homeTeamId": 2262,
+      "homeTeamName": "Dinamo Tbilisi",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/2262.png",
+      "homeWinner": null,
+      "awayTeamId": 10017,
+      "awayTeamName": "Samgurali",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/10017.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1519579,
+      "leagueId": 328,
+      "leagueName": "Esiliiga A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/328.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": "Tallinn",
+      "homeTeamId": 14287,
+      "homeTeamName": "FC Tallinn",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/14287.png",
+      "homeWinner": null,
+      "awayTeamId": 3518,
+      "awayTeamName": "Flora II",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/3518.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1519580,
+      "leagueId": 328,
+      "leagueName": "Esiliiga A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/328.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Maardu linnastaadion",
+      "venueCity": null,
+      "homeTeamId": 3527,
+      "homeTeamName": "Maardu",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/3527.png",
+      "homeWinner": null,
+      "awayTeamId": 13826,
+      "awayTeamName": "Nõmme Kalju II",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/13826.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1519581,
+      "leagueId": 328,
+      "leagueName": "Esiliiga A",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/328.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Tehvandi Staadion",
+      "venueCity": "Viimsi",
+      "homeTeamId": 3516,
+      "homeTeamName": "Elva",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/3516.png",
+      "homeWinner": null,
+      "awayTeamId": 14340,
+      "awayTeamName": "Viimsi",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/14340.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1521624,
+      "leagueId": 1126,
+      "leagueName": "Esiliiga B",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1126.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 24237,
+      "homeTeamName": "Johvi Phoenix",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24237.png",
+      "homeWinner": null,
+      "awayTeamId": 13152,
+      "awayTeamName": "Legion",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/13152.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1521625,
+      "leagueId": 1126,
+      "leagueName": "Esiliiga B",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1126.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 24236,
+      "homeTeamName": "Narva U21",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/24236.png",
+      "homeWinner": null,
+      "awayTeamId": 16962,
+      "awayTeamName": "Tartu Kalev",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/16962.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1521626,
+      "leagueId": 1126,
+      "leagueName": "Esiliiga B",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1126.png",
+      "season": 2026,
+      "round": "Regular Season - 16",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 10168,
+      "homeTeamName": "Luunja",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/10168.png",
+      "homeWinner": null,
+      "awayTeamId": 16718,
+      "awayTeamName": "JK Tabasalu",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/16718.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1529746,
+      "leagueId": 361,
+      "leagueName": "1 Lyga",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/361.png",
+      "season": 2026,
+      "round": "Regular Season - 14",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Klaipedosmiesto Centrinis",
+      "venueCity": "Klaipeda",
+      "homeTeamId": 14384,
+      "homeTeamName": "Neptūną Klaipėda",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/14384.png",
+      "homeWinner": null,
+      "awayTeamId": 13971,
+      "awayTeamName": "Kauno Žalgiris II",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/13971.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1539004,
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1.png",
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": "Mercedes-Benz Stadium",
+      "venueCity": "Atlanta",
+      "homeTeamId": 770,
+      "homeTeamName": "Czechia",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/770.png",
+      "homeWinner": null,
+      "awayTeamId": 1531,
+      "awayTeamName": "South Africa",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/1531.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1551261,
+      "leagueId": 657,
+      "leagueName": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/657.png",
+      "season": 2026,
+      "round": "Round of 128",
+      "isoDate": "2026-06-18T23:00:00+07:00",
+      "timestamp": 1781798400,
+      "date": "2026-06-18",
+      "kickoffTime": "23:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 14335,
+      "homeTeamName": "Team Helm",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/14335.png",
+      "homeWinner": null,
+      "awayTeamId": 27841,
+      "awayTeamName": "Deliirium",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/27841.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1501418,
+      "leagueId": 736,
+      "leagueName": "Elitettan",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/736.png",
+      "season": 2026,
+      "round": "Regular Season - 10",
+      "isoDate": "2026-06-18T23:30:00+07:00",
+      "timestamp": 1781800200,
+      "date": "2026-06-18",
+      "kickoffTime": "23:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 16005,
+      "homeTeamName": "Jitex W",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/16005.png",
+      "homeWinner": null,
+      "awayTeamId": 11078,
+      "awayTeamName": "KIF Örebro W",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/11078.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "matchId": 1510612,
+      "leagueId": 592,
+      "leagueName": "Division 2 - Norra Götaland",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/592.png",
+      "season": 2026,
+      "round": "Norra Götaland - 13",
+      "isoDate": "2026-06-18T23:30:00+07:00",
+      "timestamp": 1781800200,
+      "date": "2026-06-18",
+      "kickoffTime": "23:30",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "status": "Not Started",
+      "statusShort": "NS",
+      "elapsed": null,
+      "venueName": null,
+      "venueCity": null,
+      "homeTeamId": 12573,
+      "homeTeamName": "Lidköping",
+      "homeTeamLogo": "https://media.api-sports.io/football/teams/12573.png",
+      "homeWinner": null,
+      "awayTeamId": 6675,
+      "awayTeamName": "Husqvarna",
+      "awayTeamLogo": "https://media.api-sports.io/football/teams/6675.png",
+      "awayWinner": null,
+      "homeScore": null,
+      "awayScore": null,
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

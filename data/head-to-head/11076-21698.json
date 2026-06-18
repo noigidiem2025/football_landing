@@ -1,0 +1,68 @@
+{
+  "source": "api-football",
+  "generatedAt": "2026-06-17T20:42:18.748Z",
+  "ttlSeconds": 86400,
+  "records": 3,
+  "data": {
+    "homeTeamId": 11076,
+    "awayTeamId": 21698,
+    "totalMatches": 3,
+    "homeWins": 0,
+    "awayWins": 3,
+    "draws": 0,
+    "recentMatches": [
+      {
+        "fixtureId": 1495561,
+        "date": "2026-09-19T00:00:00+07:00",
+        "leagueName": "Damallsvenskan",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+        "homeTeamName": "Malmö FF W",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/21698.png",
+        "awayTeamName": "Djurgården W",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/11076.png",
+        "homeScore": null,
+        "awayScore": null,
+        "status": "NS"
+      },
+      {
+        "fixtureId": 1495495,
+        "date": "2026-06-18T00:00:00+07:00",
+        "leagueName": "Damallsvenskan",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+        "homeTeamName": "Djurgården W",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/11076.png",
+        "awayTeamName": "Malmö FF W",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/21698.png",
+        "homeScore": 0,
+        "awayScore": 1,
+        "status": "FT"
+      },
+      {
+        "fixtureId": 1341654,
+        "date": "2025-10-18T18:00:00+07:00",
+        "leagueName": "Damallsvenskan",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+        "homeTeamName": "Djurgården W",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/11076.png",
+        "awayTeamName": "Malmö FF W",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/21698.png",
+        "homeScore": 1,
+        "awayScore": 4,
+        "status": "FT"
+      },
+      {
+        "fixtureId": 1341564,
+        "date": "2025-06-07T20:00:00+07:00",
+        "leagueName": "Damallsvenskan",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/549.png",
+        "homeTeamName": "Malmö FF W",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/21698.png",
+        "awayTeamName": "Djurgården W",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/11076.png",
+        "homeScore": 4,
+        "awayScore": 0,
+        "status": "FT"
+      }
+    ]
+  }
+}
