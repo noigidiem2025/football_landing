@@ -1,9 +1,9 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { CalendarDays } from "lucide-react";
 import type { FootballResult } from "@/lib/api-football/types";
+import { LogoBadge } from "@/components/ui/LogoBadge";
 import { cn } from "@/lib/utils";
 import { useLanguage } from "@/i18n/useLanguage";
 
@@ -47,13 +47,7 @@ export function ResultCard({ result }: { result: FootballResult }) {
           align === "right" && "flex-row-reverse",
         )}
       >
-        <Image
-          src={logo}
-          alt=""
-          width={24}
-          height={24}
-          className="h-6 w-6 shrink-0 object-contain"
-        />
+        <LogoBadge src={logo} label={name} size="sm" />
         <span className={cn("truncate text-sm font-semibold", win ? "text-foreground" : "text-muted")}>
           {name}
         </span>
@@ -65,15 +59,7 @@ export function ResultCard({ result }: { result: FootballResult }) {
     <article className="card p-4 sm:p-5">
       <div className="mb-4 flex items-center justify-between gap-2">
         <span className="flex min-w-0 items-center gap-2 rounded-full bg-white/5 px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider text-muted">
-          {result.leagueLogo && (
-            <Image
-              src={result.leagueLogo}
-              alt=""
-              width={16}
-              height={16}
-              className="h-4 w-4 shrink-0 object-contain"
-            />
-          )}
+          <LogoBadge src={result.leagueLogo} label={result.leagueName} size="xs" icon />
           <span className="truncate">{result.leagueName}</span>
         </span>
         <span className="inline-flex items-center rounded-full bg-white/5 px-2 py-1 text-[10px] font-bold uppercase tracking-wider text-muted">

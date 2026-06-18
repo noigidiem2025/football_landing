@@ -7,6 +7,7 @@ import type {
   H2HMatch,
   FormResult,
 } from "@/lib/types";
+import { localImageOrFallback } from "@/lib/local-images";
 import { teams } from "@/mocks/teams";
 
 type Row = Record<string, string>;
@@ -84,7 +85,7 @@ export function mapRowsToArticles(rows: string[][]): PredictionArticle[] {
         body: r.body || "",
         author: r.author || "Match Center",
         publishedAt: r.published_at || "",
-        coverImage: r.cover_url || undefined,
+        coverImage: localImageOrFallback(r.cover_url),
         related: (r.related || "")
           .split("|")
           .map((s) => s.trim())

@@ -1,7 +1,7 @@
 "use client";
 
-import Image from "next/image";
 import { Swords } from "lucide-react";
+import { LogoBadge } from "@/components/ui/LogoBadge";
 import type { HeadToHeadData, HeadToHeadMatch } from "@/lib/api-football/types";
 import { useLanguage } from "@/i18n/useLanguage";
 import { cn } from "@/lib/utils";
@@ -38,27 +38,11 @@ function RecentRow({ match, lang }: { match: HeadToHeadMatch; lang: string }) {
       <span className="flex min-w-0 flex-1 items-center justify-center gap-2">
         <span className="flex min-w-0 flex-1 items-center justify-end gap-1.5">
           <span className="truncate text-right">{match.homeTeamName}</span>
-          {match.homeTeamLogo && (
-            <Image
-              src={match.homeTeamLogo}
-              alt=""
-              width={16}
-              height={16}
-              className="h-4 w-4 shrink-0 object-contain"
-            />
-          )}
+          <LogoBadge src={match.homeTeamLogo} label={match.homeTeamName} size="xs" />
         </span>
         <span className="shrink-0 font-display font-bold tabular-nums">{score}</span>
         <span className="flex min-w-0 flex-1 items-center gap-1.5">
-          {match.awayTeamLogo && (
-            <Image
-              src={match.awayTeamLogo}
-              alt=""
-              width={16}
-              height={16}
-              className="h-4 w-4 shrink-0 object-contain"
-            />
-          )}
+          <LogoBadge src={match.awayTeamLogo} label={match.awayTeamName} size="xs" />
           <span className="truncate">{match.awayTeamName}</span>
         </span>
       </span>

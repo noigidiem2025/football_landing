@@ -1,8 +1,8 @@
 "use client";
 
-import Image from "next/image";
 import { CalendarDays, Clock, MapPin, Trophy } from "lucide-react";
 import { BackLink } from "@/components/common/BackLink";
+import { LogoBadge } from "@/components/ui/LogoBadge";
 import { StatusBadge } from "@/components/ui/StatusBadge";
 import type { MatchDetail } from "@/lib/api-football/types";
 import type { MatchStatus } from "@/lib/types";
@@ -60,15 +60,7 @@ export function MatchDetailView({ match }: { match: MatchDetail }) {
           <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
             <div>
               <div className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-[0.2em] text-pitch">
-                {match.leagueLogo && (
-                  <Image
-                    src={match.leagueLogo}
-                    alt=""
-                    width={20}
-                    height={20}
-                    className="h-5 w-5 object-contain"
-                  />
-                )}
+                <LogoBadge src={match.leagueLogo} label={match.leagueName} size="sm" icon />
                 {match.leagueName}
               </div>
               <h1 className="font-display text-2xl font-extrabold uppercase tracking-tight sm:text-4xl">
@@ -93,13 +85,7 @@ export function MatchDetailView({ match }: { match: MatchDetail }) {
 
         <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-3 p-5 sm:gap-6 sm:p-8">
           <div className="flex min-w-0 flex-col items-center gap-3 text-center">
-            <Image
-              src={match.homeTeamLogo}
-              alt=""
-              width={64}
-              height={64}
-              className="h-16 w-16 object-contain"
-            />
+            <LogoBadge src={match.homeTeamLogo} label={match.homeTeamName} size="lg" />
             <h2 className="max-w-full truncate text-base font-bold sm:text-lg">
               {match.homeTeamName}
             </h2>
@@ -129,13 +115,7 @@ export function MatchDetailView({ match }: { match: MatchDetail }) {
           </div>
 
           <div className="flex min-w-0 flex-col items-center gap-3 text-center">
-            <Image
-              src={match.awayTeamLogo}
-              alt=""
-              width={64}
-              height={64}
-              className="h-16 w-16 object-contain"
-            />
+            <LogoBadge src={match.awayTeamLogo} label={match.awayTeamName} size="lg" />
             <h2 className="max-w-full truncate text-base font-bold sm:text-lg">
               {match.awayTeamName}
             </h2>

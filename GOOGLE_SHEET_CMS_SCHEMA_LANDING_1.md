@@ -289,7 +289,7 @@ Football news & editorial.
 
 | article_id | slug | title_vi | title_en | summary_vi | thumbnail_url | category | published | content_status |
 |---|---|---|---|---|---|---|---|---|
-| a-sample-001 | world-cup-2026-48-doi | World Cup 2026: lần đầu 48 đội | World Cup 2026: first with 48 teams | Giải mở rộng từ 32 lên 48 đội, 12 bảng, 104 trận. | https://images.unsplash.com/photo-…?w=1200 | Thể thức | TRUE | published |
+| a-sample-001 | world-cup-2026-48-doi | World Cup 2026: lần đầu 48 đội | World Cup 2026: first with 48 teams | Giải mở rộng từ 32 lên 48 đội, 12 bảng, 104 trận. | /images/news-stadium.jpg | Thể thức | TRUE | published |
 
 > Body uses only **verifiable, evergreen tournament facts** (format, hosts, venues, schedule). No fabricated match reports, quotes or "expert" commentary.
 

@@ -1,6 +1,7 @@
 import { syncFixtures } from "./sync-fixtures";
 import { syncLeagues } from "./sync-leagues";
 import { syncLive } from "./sync-live";
+import { syncLogoAssets } from "./sync-logo-assets";
 import { syncResults } from "./sync-results";
 
 export async function syncAll() {
@@ -9,6 +10,7 @@ export async function syncAll() {
   results.push(await syncFixtures());
   results.push(await syncLive());
   results.push(await syncResults());
+  results.push(await syncLogoAssets());
   return results;
 }
 

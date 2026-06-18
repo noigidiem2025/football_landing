@@ -1,33 +1,47 @@
-import Image from "next/image";
 import { cn } from "@/lib/utils";
 import type { Team } from "@/lib/types";
 
 interface FlagProps {
   team: Team;
-  /** Rendered pixel size (height auto-derives a 4:3 width). */
   size?: "sm" | "md" | "lg";
   className?: string;
 }
 
-const dims: Record<NonNullable<FlagProps["size"]>, { w: number; h: number }> = {
-  sm: { w: 28, h: 20 },
-  md: { w: 40, h: 28 },
-  lg: { w: 60, h: 42 },
+const sizeClass: Record<NonNullable<FlagProps["size"]>, string> = {
+  sm: "h-5 min-w-7 px-1 text-[10px]",
+  md: "h-7 min-w-10 px-1.5 text-xs",
+  lg: "h-12 min-w-16 px-2 text-lg",
 };
 
+function flagEmoji(code: string): string | null {
+  const normalized = code.trim().toUpperCase();
+  if (!/^[A-Z]{2}$/.test(normalized)) return null;
+
+  return normalized
+    .split("")
+    .map((char) => String.fromCodePoint(127397 + char.charCodeAt(0)))
+    .join("");
+}
+
 /**
- * Country flag via flagcdn optimized static images. Fixed width/height to
- * prevent layout shift; lazy by default so it never blocks LCP.
+ * Local-only flag fallback. Uses emoji when the team has an ISO alpha-2 code,
+ * otherwise falls back to the team's short code. No remote image request.
  */
 export function Flag({ team, size = "md", className }: FlagProps) {
-  const { w, h } = dims[size];
+  const emoji = flagEmoji(team.flag);
+  const label = emoji ?? team.code;
+
   return (
-    <Image
-      src={`https://flagcdn.com/h60/${team.flag}.png`}
-      alt={`${team.name} flag`}
-      width={w}
-      height={h}
-      className={cn("rounded object-cover shadow-sm ring-1 ring-white/10", className)}
-    />
+    <span
+      aria-label={`${team.name} flag`}
+      role="img"
+      className={cn(
+        "inline-flex shrink-0 items-center justify-center rounded bg-white/5 font-bold uppercase shadow-sm ring-1 ring-white/10",
+        sizeClass[size],
+        className,
+      )}
+    >
+      {label}
+    </span>
   );
 }

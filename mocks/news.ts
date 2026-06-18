@@ -20,8 +20,7 @@ export const news: NewsArticle[] = [
     tags: ["world-cup-2026", "the-thuc"],
     featured: true,
     status: "published",
-    coverUrl:
-      "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1200&q=80&auto=format&fit=crop",
+    coverUrl: "/images/news-stadium.jpg",
     coverAlt: "Sân vận động bóng đá rực sáng dưới ánh đèn",
     body: `## Giải đấu lớn nhất lịch sử
 
@@ -45,8 +44,7 @@ Hai đội đứng đầu mỗi bảng cùng 8 đội xếp thứ ba có thành 
     publishedAt: "2026-06-15",
     tags: ["world-cup-2026", "chu-nha"],
     status: "published",
-    coverUrl:
-      "https://images.unsplash.com/photo-1486286701208-1d58e9338013?w=1200&q=80&auto=format&fit=crop",
+    coverUrl: "/images/news-fans.jpg",
     coverAlt: "Khán đài sân vận động đông kín cổ động viên",
     body: `## Ba nước chủ nhà
 
@@ -70,8 +68,7 @@ Các trận đấu diễn ra tại 16 thành phố trải dài khắp ba quốc 
     publishedAt: "2026-06-14",
     tags: ["world-cup-2026", "lich-thi-dau"],
     status: "published",
-    coverUrl:
-      "https://images.unsplash.com/photo-1577223625816-7546f13df25d?w=1200&q=80&auto=format&fit=crop",
+    coverUrl: "/images/news-pitch.jpg",
     coverAlt: "Sân cỏ bóng đá nhìn từ trên cao",
     body: `## Khởi tranh ở Mexico
 
@@ -95,8 +92,7 @@ Trận tranh hạng ba diễn ra trước đó tại Miami, một ngày trước
     publishedAt: "2026-06-13",
     tags: ["world-cup-2026", "san-van-dong"],
     status: "published",
-    coverUrl:
-      "https://images.unsplash.com/photo-1543351611-58f69d7c1781?w=1200&q=80&auto=format&fit=crop",
+    coverUrl: "/images/football-card.jpg",
     coverAlt: "Toàn cảnh sân vận động hiện đại",
     body: `## Hoa Kỳ
 
@@ -120,8 +116,7 @@ Mexico đóng góp ba sân: Estadio Azteca (Mexico City), Estadio BBVA (Monterre
     publishedAt: "2026-06-12",
     tags: ["world-cup-2026", "knock-out"],
     status: "published",
-    coverUrl:
-      "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?w=1200&q=80&auto=format&fit=crop",
+    coverUrl: "/images/news-stadium.jpg",
     coverAlt: "Trái bóng trên sân cỏ",
     body: `## Vòng 1/16 lần đầu xuất hiện
 

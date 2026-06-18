@@ -5,6 +5,7 @@ import type {
   FootballResult,
   MatchDetail,
 } from "@/lib/api-football/types";
+import { localLeagueLogoPath, localLogoPathFromApiUrl, localTeamLogoPath } from "./logo-cache";
 import { readJson } from "./cache-writer";
 
 export interface CacheEnvelope<T> {
@@ -39,30 +40,70 @@ async function readEnvelope<T>(filePath: string): Promise<CacheEnvelope<T> | nul
   return readJson<CacheEnvelope<T>>(filePath);
 }
 
+function withLocalMatchLogos(match: FootballMatch): FootballMatch {
+  return {
+    ...match,
+    leagueLogo: localLeagueLogoPath(match.leagueId),
+    homeTeamLogo: localTeamLogoPath(match.homeTeamId),
+    awayTeamLogo: localTeamLogoPath(match.awayTeamId),
+  };
+}
+
+function withLocalDetailLogos(match: MatchDetail): MatchDetail {
+  return {
+    ...match,
+    leagueLogo: localLeagueLogoPath(match.leagueId),
+    homeTeamLogo: localTeamLogoPath(match.homeTeamId),
+    awayTeamLogo: localTeamLogoPath(match.awayTeamId),
+  };
+}
+
+function withLocalResultLogos(result: FootballResult): FootballResult {
+  return {
+    ...result,
+    leagueLogo: localLeagueLogoPath(result.leagueId),
+    homeTeamLogo: localTeamLogoPath(result.homeTeamId),
+    awayTeamLogo: localTeamLogoPath(result.awayTeamId),
+  };
+}
+
 export const getTodayFixtures = cache(async (): Promise<FootballMatch[]> => {
-  return (await readEnvelope<FootballMatch[]>(CACHE_PATHS.fixturesToday))?.data ?? [];
+  return ((await readEnvelope<FootballMatch[]>(CACHE_PATHS.fixturesToday))?.data ?? []).map(
+    withLocalMatchLogos,
+  );
 });
 
 export const getTomorrowFixtures = cache(async (): Promise<FootballMatch[]> => {
-  return (await readEnvelope<FootballMatch[]>(CACHE_PATHS.fixturesTomorrow))?.data ?? [];
+  return ((await readEnvelope<FootballMatch[]>(CACHE_PATHS.fixturesTomorrow))?.data ?? []).map(
+    withLocalMatchLogos,
+  );
 });
 
 export const getWeekFixtures = cache(async (): Promise<FootballMatch[]> => {
-  return (await readEnvelope<FootballMatch[]>(CACHE_PATHS.fixturesWeek))?.data ?? [];
+  return ((await readEnvelope<FootballMatch[]>(CACHE_PATHS.fixturesWeek))?.data ?? []).map(
+    withLocalMatchLogos,
+  );
 });
 
 export const getLiveMatches = cache(async (): Promise<FootballMatch[]> => {
-  return (await readEnvelope<FootballMatch[]>(CACHE_PATHS.liveMatches))?.data ?? [];
+  return ((await readEnvelope<FootballMatch[]>(CACHE_PATHS.liveMatches))?.data ?? []).map(
+    withLocalMatchLogos,
+  );
 });
 
 export const getCachedLeagues = cache(async (): Promise<CachedLeague[]> => {
-  return (await readEnvelope<CachedLeague[]>(CACHE_PATHS.leagues))?.data ?? [];
+  return ((await readEnvelope<CachedLeague[]>(CACHE_PATHS.leagues))?.data ?? []).map(
+    (league) => ({
+      ...league,
+      logo: localLeagueLogoPath(league.id) || localLogoPathFromApiUrl(league.logo) || "",
+    }),
+  );
 });
 
 export const getCachedMatchDetail = cache(
   async (fixtureId: number): Promise<MatchDetail | null> => {
     const direct = await readEnvelope<MatchDetail>(CACHE_PATHS.matchDetail(fixtureId));
-    if (direct?.data) return direct.data;
+    if (direct?.data) return withLocalDetailLogos(direct.data);
 
     const [today, tomorrow, week, live] = await Promise.all([
       getTodayFixtures(),
@@ -78,18 +119,20 @@ export const getCachedMatchDetail = cache(
       return true;
     });
     const match = all.find((item) => item.matchId === fixtureId);
-    return match ? footballMatchToMatchDetail(match) : null;
+    return match ? withLocalDetailLogos(footballMatchToMatchDetail(match)) : null;
   },
 );
 
 export const getCachedRecentResults = cache(async (): Promise<FootballResult[]> => {
-  return (await readEnvelope<FootballResult[]>(CACHE_PATHS.resultsRecent))?.data ?? [];
+  return ((await readEnvelope<FootballResult[]>(CACHE_PATHS.resultsRecent))?.data ?? []).map(
+    withLocalResultLogos,
+  );
 });
 
 export const getCachedResultsByDate = cache(
   async (date: string): Promise<FootballResult[]> => {
     const direct = await readEnvelope<FootballResult[]>(CACHE_PATHS.resultsByDate(date));
-    if (direct?.data) return direct.data;
+    if (direct?.data) return direct.data.map(withLocalResultLogos);
 
     const recent = await getCachedRecentResults();
     return recent.filter((result) => result.localDate === date);

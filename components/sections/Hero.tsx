@@ -4,6 +4,7 @@ import Image from "next/image";
 import { TrendingUp, CalendarDays } from "lucide-react";
 import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
+import { HERO_IMAGE } from "@/lib/local-images";
 import { site } from "@/mocks";
 import { useLanguage } from "@/i18n/useLanguage";
 
@@ -21,7 +22,7 @@ export function Hero() {
     <section className="relative overflow-hidden border-b border-line">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero-stadium.jpg"
+          src={HERO_IMAGE}
           alt=""
           fill
           priority

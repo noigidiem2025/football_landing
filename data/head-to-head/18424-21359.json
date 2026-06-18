@@ -1,0 +1,81 @@
+{
+  "source": "api-football",
+  "generatedAt": "2026-06-18T08:21:51.006Z",
+  "ttlSeconds": 86400,
+  "records": 5,
+  "data": {
+    "homeTeamId": 18424,
+    "awayTeamId": 21359,
+    "totalMatches": 5,
+    "homeWins": 2,
+    "awayWins": 3,
+    "draws": 0,
+    "recentMatches": [
+      {
+        "fixtureId": 1511362,
+        "date": "2026-08-09T18:00:00+07:00",
+        "leagueName": "Division 2 - Västra Götaland",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/596.png",
+        "homeTeamName": "Jonsered",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/21359.png",
+        "awayTeamName": "Landvetter IS",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/18424.png",
+        "homeScore": null,
+        "awayScore": null,
+        "status": "NS"
+      },
+      {
+        "fixtureId": 1511338,
+        "date": "2026-06-18T00:00:00+07:00",
+        "leagueName": "Division 2 - Västra Götaland",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/596.png",
+        "homeTeamName": "Landvetter IS",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/18424.png",
+        "awayTeamName": "Jonsered",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/21359.png",
+        "homeScore": 1,
+        "awayScore": 0,
+        "status": "FT"
+      },
+      {
+        "fixtureId": 1344540,
+        "date": "2025-10-19T19:00:00+07:00",
+        "leagueName": "Division 2 - Västra Götaland",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/596.png",
+        "homeTeamName": "Landvetter IS",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/18424.png",
+        "awayTeamName": "Jonsered",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/21359.png",
+        "homeScore": 0,
+        "awayScore": 4,
+        "status": "FT"
+      },
+      {
+        "fixtureId": 1344376,
+        "date": "2025-04-12T18:00:00+07:00",
+        "leagueName": "Division 2 - Västra Götaland",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/596.png",
+        "homeTeamName": "Jonsered",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/21359.png",
+        "awayTeamName": "Landvetter IS",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/18424.png",
+        "homeScore": 2,
+        "awayScore": 1,
+        "status": "FT"
+      },
+      {
+        "fixtureId": 1165373,
+        "date": "2024-09-07T00:00:00+07:00",
+        "leagueName": "Division 2 - Västra Götaland",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/596.png",
+        "homeTeamName": "Jonsered",
+        "homeTeamLogo": "https://media.api-sports.io/football/teams/21359.png",
+        "awayTeamName": "Landvetter IS",
+        "awayTeamLogo": "https://media.api-sports.io/football/teams/18424.png",
+        "homeScore": 2,
+        "awayScore": 1,
+        "status": "FT"
+      }
+    ]
+  }
+}

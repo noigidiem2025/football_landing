@@ -1,14 +1,13 @@
 "use client";
 
-import Image from "next/image";
 import { Globe } from "lucide-react";
 import { useLanguage } from "./useLanguage";
 import type { Lang } from "./LanguageProvider";
 import { cn } from "@/lib/utils";
 
 const OPTIONS: { value: Lang; code: string; flag: string; label: string }[] = [
-  { value: "vi", code: "VI", flag: "vn", label: "Tiếng Việt" },
-  { value: "en", code: "EN", flag: "gb", label: "English" },
+  { value: "vi", code: "VI", flag: "🇻🇳", label: "Tiếng Việt" },
+  { value: "en", code: "EN", flag: "🇬🇧", label: "English" },
 ];
 
 /**
@@ -35,13 +34,7 @@ export function LanguageSwitcher() {
               : "text-muted hover:text-foreground",
           )}
         >
-          <Image
-            src={`https://flagcdn.com/h20/${o.flag}.png`}
-            alt=""
-            width={18}
-            height={13}
-            className="rounded-[2px] object-cover"
-          />
+          <span aria-hidden>{o.flag}</span>
           {o.code}
         </button>
       ))}

@@ -1,11 +1,11 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { MapPin, TrendingUp, Bell, Radio, ArrowRight } from "lucide-react";
 import type { FootballMatch } from "@/lib/api-football/types";
 import type { MatchStatus } from "@/lib/types";
 import { Button } from "@/components/ui/Button";
+import { LogoBadge } from "@/components/ui/LogoBadge";
 import { StatusBadge } from "@/components/ui/StatusBadge";
 import { useLanguage } from "@/i18n/useLanguage";
 
@@ -47,15 +47,7 @@ export function FixtureCard({ match }: { match: FootballMatch }) {
         {/* League + status */}
         <div className="mb-3 flex items-center justify-between gap-2">
           <span className="flex min-w-0 items-center gap-2">
-            {match.leagueLogo && (
-              <Image
-                src={match.leagueLogo}
-                alt=""
-                width={18}
-                height={18}
-                className="h-[18px] w-[18px] shrink-0 object-contain"
-              />
-            )}
+            <LogoBadge src={match.leagueLogo} label={match.leagueName} size="xs" icon />
             <span className="truncate text-[11px] font-bold uppercase tracking-wider text-muted">
               {match.leagueName}
             </span>
@@ -71,13 +63,7 @@ export function FixtureCard({ match }: { match: FootballMatch }) {
         {/* Teams + score/time */}
         <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-2 sm:gap-3">
           <div className="flex min-w-0 items-center gap-2.5">
-            <Image
-              src={match.homeTeamLogo}
-              alt=""
-              width={24}
-              height={24}
-              className="h-6 w-6 shrink-0 object-contain"
-            />
+            <LogoBadge src={match.homeTeamLogo} label={match.homeTeamName} size="sm" />
             <span className="truncate text-sm font-semibold">{match.homeTeamName}</span>
           </div>
 
@@ -98,13 +84,7 @@ export function FixtureCard({ match }: { match: FootballMatch }) {
 
           <div className="flex min-w-0 items-center justify-end gap-2.5">
             <span className="truncate text-right text-sm font-semibold">{match.awayTeamName}</span>
-            <Image
-              src={match.awayTeamLogo}
-              alt=""
-              width={24}
-              height={24}
-              className="h-6 w-6 shrink-0 object-contain"
-            />
+            <LogoBadge src={match.awayTeamLogo} label={match.awayTeamName} size="sm" />
           </div>
         </div>
 

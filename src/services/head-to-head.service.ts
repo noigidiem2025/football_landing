@@ -1,5 +1,6 @@
 import { fetchHeadToHead, ApiFootballError } from "@/lib/api-football/client";
 import type { CacheEnvelope } from "@/src/lib/cache/cache-reader";
+import { localLogoPathFromApiUrl } from "@/src/lib/cache/logo-cache";
 import { readJson, saveJson } from "@/src/lib/cache/cache-writer";
 import type {
   HeadToHeadData,
@@ -35,6 +36,18 @@ function emptyData(homeTeamId: number, awayTeamId: number): HeadToHeadData {
     awayWins: 0,
     draws: 0,
     recentMatches: [],
+  };
+}
+
+function withLocalLogos(data: HeadToHeadData): HeadToHeadData {
+  return {
+    ...data,
+    recentMatches: data.recentMatches.map((match) => ({
+      ...match,
+      leagueLogo: localLogoPathFromApiUrl(match.leagueLogo),
+      homeTeamLogo: localLogoPathFromApiUrl(match.homeTeamLogo),
+      awayTeamLogo: localLogoPathFromApiUrl(match.awayTeamLogo),
+    })),
   };
 }
 
@@ -92,7 +105,7 @@ export async function getHeadToHead(
   const cached = await readJson<CacheEnvelope<HeadToHeadData>>(file);
 
   // 1) Fresh cache → use it (no API call).
-  if (cached && isFresh(cached)) return cached.data;
+  if (cached && isFresh(cached)) return withLocalLogos(cached.data);
 
   // 2) Stale / missing → fetch fresh.
   try {
@@ -115,7 +128,7 @@ export async function getHeadToHead(
       );
     }
 
-    return data;
+    return withLocalLogos(data);
   } catch (error) {
     const message =
       error instanceof ApiFootballError
@@ -126,7 +139,7 @@ export async function getHeadToHead(
     console.error(`[head-to-head] fetch failed for ${homeTeamId}-${awayTeamId}:`, message);
 
     // 3) Stale cache on error, else safe empty state.
-    if (cached) return cached.data;
+    if (cached) return withLocalLogos(cached.data);
     return emptyData(homeTeamId, awayTeamId);
   }
 }

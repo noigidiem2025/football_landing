@@ -12,6 +12,7 @@
     "sync:live": "tsx src/sync/sync-live.ts",
     "sync:match-detail": "tsx src/sync/sync-match-detail.ts",
     "sync:results": "tsx src/sync/sync-results.ts",
+    "sync:logos": "tsx src/sync/sync-logo-assets.ts",
     "sync:leagues": "tsx src/sync/sync-leagues.ts",
     "sync:all": "tsx src/sync/sync-runner.ts"
   },

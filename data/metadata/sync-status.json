@@ -33,5 +33,12 @@
     "startedAt": "2026-06-17T20:11:39.446Z",
     "finishedAt": "2026-06-17T20:11:39.997Z",
     "records": 1
+  },
+  "logo-assets": {
+    "name": "logo-assets",
+    "status": "success",
+    "startedAt": "2026-06-18T08:18:30.016Z",
+    "finishedAt": "2026-06-18T08:18:48.326Z",
+    "records": 1863
   }
 }

@@ -2,6 +2,7 @@ import { cache } from "react";
 import type { NewsArticle } from "@/lib/types";
 import { fetchSheetRows } from "./client";
 import { news as fallbackNews } from "@/mocks/news";
+import { localImageOrFallback, localNewsCover } from "@/lib/local-images";
 
 const NEWS_TAB = process.env.SHEET_NEWS_TAB ?? "news";
 
@@ -40,7 +41,7 @@ function mapRows(rows: string[][]): NewsArticle[] {
         .map((t) => t.trim())
         .filter(Boolean),
       featured: asBool(r.featured),
-      coverUrl: r.cover_url || undefined,
+      coverUrl: localImageOrFallback(r.cover_url, localNewsCover(r.slug)),
       coverAlt: r.cover_alt || undefined,
     }));
 }
